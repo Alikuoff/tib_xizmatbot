@@ -363,6 +363,513 @@
       "website": "https://www.goldenpages.uz/uz/company/?Id=66008",
       "workingHours": "08.00 - 18.00 (Dushanbadan Jumagacha / С Понедельника по Пятницу)",
       "services": []
+    },
+    {
+      "id": "clinic1739026199759",
+      "name": "CHILONZOR TUMANI MARKAZIY POLIKLINIKASI",
+      "district": "Chilonzor tumani / Чиланзорский район",
+      "location": {
+        "latitude": 41.286424,
+        "longitude": 69.215705
+      },
+      "phone": "+998 (71) 273-51-99, +998 (71) 273-38-19, +998 (71) 273-38-19",
+      "website": "https://www.goldenpages.uz/uz/company/?Id=66616",
+      "workingHours": "08.00 - 20.00 (Dushanbadan Jumagacha / С Понедельника по Пятницу)",
+      "services": []
+    },
+    {
+      "id": "clinic1739026311152",
+      "name": "CHILONZOR TUMANIDAGI 34-SONLI OILAVIY POLIKLINIKASI",
+      "district": "Chilonzor tumani / Чиланзорский район",
+      "location": {
+        "latitude": 41.280047,
+        "longitude": 69.222828
+      },
+      "phone": "+998 (71) 277-10-97, +998 (71) 277-09-86, +998 (71) 277-05-57",
+      "website": "https://www.goldenpages.uz/uz/company/?Id=50529",
+      "workingHours": "08.00 - 20.00 ",
+      "services": []
+    },
+    {
+      "id": "clinic1739026399883",
+      "name": "CHILONZOR TUMANIDAGI 35-SONLI OILAVIY POLIKLINIKASI",
+      "district": "Chilonzor tumani / Чиланзорский район",
+      "location": {
+        "latitude": 41.270526,
+        "longitude": 69.17617
+      },
+      "phone": "+998 (71) 216-90-07",
+      "website": "https://www.goldenpages.uz/uz/company/?Id=59589",
+      "workingHours": "08.00 - 20.00 (Dushanbadan Jumagacha / С Понедельника по Пятницу)",
+      "services": []
+    },
+    {
+      "id": "clinic1739026539300",
+      "name": "CHILONZOR TUMANIDAGI 36-SONLI OILAVIY POLIKLINIKASI",
+      "district": "Chilonzor tumani / Чиланзорский район",
+      "location": {
+        "latitude": 41.293579,
+        "longitude": 69.222352
+      },
+      "phone": " +998 (71) 288-45-14, +998 (71) 273-92-95",
+      "website": "https://www.goldenpages.uz/uz/company/?Id=3710",
+      "workingHours": "08.00 - 20.00 (Dushanbadan Jumagacha / С Понедельника по Пятницу)",
+      "services": []
+    },
+    {
+      "id": "clinic1739026659114",
+      "name": " CHILONZOR TUMANIDAGI 37-SONLI OILAVIY POLIKLINIKASI",
+      "district": "Chilonzor tumani / Чиланзорский район",
+      "location": {
+        "latitude": 41.294175,
+        "longitude": 69.211375
+      },
+      "phone": "+998 (71) 278-24-09, +998 (71) 278-40-78",
+      "website": "https://www.goldenpages.uz/uz/company/?Id=3723",
+      "workingHours": "08.00 - 20.00 (Dushanbadan Jumagacha / С Понедельника по Пятницу)",
+      "services": []
+    },
+    {
+      "id": "clinic1739026950543",
+      "name": "CHILONZOR TUMANIDAGI 38-SONLI OILAVIY POLIKLINIKASI",
+      "district": "Chilonzor tumani / Чиланзорский район",
+      "location": {
+        "latitude": 41.257864,
+        "longitude": 69.158656
+      },
+      "phone": "+998 (71) 270-41-45, +998 (71) 270-31-74",
+      "website": "https://www.goldenpages.uz/uz/company/?Id=3724",
+      "workingHours": "08.00 - 20.00 (Dushanbadan Jumagacha / С Понедельника по Пятницу)",
+      "services": []
+    },
+    {
+      "id": "clinic1739027057820",
+      "name": "CHILONZOR TUMANIDAGI 39-SONLI OILAVIY POLIKLINIKASI",
+      "district": "Chilonzor tumani / Чиланзорский район",
+      "location": {
+        "latitude": 41.270587,
+        "longitude": 69.206659
+      },
+      "phone": "+998 (71) 279-36-35, +998 (71) 279-27-89",
+      "website": "https://www.goldenpages.uz/uz/company/?Id=3728",
+      "workingHours": "08.00 - 20.00 (Dushanbadan Jumagacha / С Понедельника по Пятницу)",
+      "services": []
+    },
+    {
+      "id": "clinic1739027150606",
+      "name": "CHILONZOR TUMANIDAGI 39-SONLI OILAVIY POLIKLINIKASI FILIALI ",
+      "district": "Chilonzor tumani / Чиланзорский район",
+      "location": {
+        "latitude": 41.265009,
+        "longitude": 69.194352
+      },
+      "phone": "+998 (71) 217-53-02",
+      "website": "https://www.goldenpages.uz/uz/company/?Id=99564",
+      "workingHours": "08.00 - 18.00 (Yakshanba / Воскресенье - Dam olish / Отдых)",
+      "services": []
+    },
+    {
+      "id": "clinic1739027297197",
+      "name": "CHILONZOR TUMANINING 33-SONLI OILAVIY POLIKLINIKASI",
+      "district": "Chilonzor tumani / Чиланзорский район",
+      "location": {
+        "latitude": 41.270329,
+        "longitude": 69.211878
+      },
+      "phone": "+998 (71) 279-99-13, +998 (71) 279-99-12",
+      "website": "https://www.goldenpages.uz/uz/company/?Id=59586",
+      "workingHours": "08.00 - 20.00 (Dushanbadan Jumagacha / С Понедельника по Пятницу)",
+      "services": []
+    },
+    {
+      "id": "clinic1739028966224",
+      "name": "BEKTEMIR TUMANINING MARKAZIY KO'P TARMOQLI POLIKLINIKASI",
+      "district": "Bektemir tumani / Бектемирский район",
+      "location": {
+        "latitude": 41.249912,
+        "longitude": 69.374239
+      },
+      "phone": "+998 (71) 295-12-33, +998 (71) 295-16-33",
+      "website": "https://www.goldenpages.uz/uz/company/?Id=41581",
+      "workingHours": "08.00 - 20.00 (Dushanbadan Jumagacha / С Понедельника по Пятницу)",
+      "services": []
+    },
+    {
+      "id": "clinic1739029186383",
+      "name": "MIROBOD TUMANIDAGI 2-SONLI OILAVIY POLIKLINIKASI",
+      "district": "Mirobod tumani / Мирабадский район",
+      "location": {
+        "latitude": 41.251729,
+        "longitude": 69.312624
+      },
+      "phone": "+998 (71) 290-50-19, +998 (71) 290-50-21",
+      "website": "https://www.goldenpages.uz/uz/company/?Id=3691",
+      "workingHours": "08.00 - 20.00 (Dushanbadan Jumagacha / С Понедельника по Пятницу)",
+      "services": []
+    },
+    {
+      "id": "clinic1739029266171",
+      "name": "MIROBOD TUMANIDAGI 3-SONLI OILAVIY POLIKLINIKASI",
+      "district": "Mirobod tumani / Мирабадский район",
+      "location": {
+        "latitude": 41.281965,
+        "longitude": 69.298134
+      },
+      "phone": "+998 (71) 293-63-10, +998 (71) 293-63-72",
+      "website": "https://www.goldenpages.uz/uz/company/?Id=3718",
+      "workingHours": "08.00 - 20.00 (Dushanbadan Jumagacha / С Понедельника по Пятницу)",
+      "services": []
+    },
+    {
+      "id": "clinic1739029347297",
+      "name": "MIROBOD TUMANINING 1-SONLI OILAVIY POLIKLINIKASI ",
+      "district": "Mirobod tumani / Мирабадский район",
+      "location": {
+        "latitude": 41.298538,
+        "longitude": 69.279755
+      },
+      "phone": "+998 (71) 254-08-03",
+      "website": "https://www.goldenpages.uz/uz/company/?Id=3690",
+      "workingHours": "08.00 - 20.00 (Dushanbadan Jumagacha / С Понедельника по Пятницу)",
+      "services": []
+    },
+    {
+      "id": "clinic1739029430982",
+      "name": "MIROBOD TUMANINING MARKAZIY POLIKLINIKASI",
+      "district": "Mirobod tumani / Мирабадский район",
+      "location": {
+        "latitude": 41.303395,
+        "longitude": 69.271616
+      },
+      "phone": "+998 (71) 256-14-51",
+      "website": "https://www.goldenpages.uz/uz/company/?Id=41580",
+      "workingHours": "08.00 - 20.00 (Dushanbadan Jumagacha / С Понедельника по Пятницу)",
+      "services": []
+    },
+    {
+      "id": "clinic1739029547016",
+      "name": "\"O'ZBEKISTON TEMIR YO'LLARI\" AJ MARKAZIY POLIKLINIKASI",
+      "district": "Mirobod tumani / Мирабадский район",
+      "location": {
+        "latitude": 41.286649,
+        "longitude": 69.284432
+      },
+      "phone": "+998 (71) 299-95-53, +998 (71) 299-99-51",
+      "website": "https://www.goldenpages.uz/uz/company/?Id=9610",
+      "workingHours": "07.00 - 19.00 (Dushanbadan Jumagacha / С Понедельника по Пятницу)",
+      "services": []
+    },
+    {
+      "id": "clinic1739029662415",
+      "name": "O'ZBEKISTON RESPUBLIKASI ICHKI ISHLAR VAZIRLIGI MARKAZIY POLIKLINIKASI",
+      "district": "Mirobod tumani / Мирабадский район",
+      "location": {
+        "latitude": 41.300475,
+        "longitude": 69.28642
+      },
+      "phone": "+998 (71) 231-49-16, +998 (71) 206-43-81",
+      "website": "https://www.goldenpages.uz/uz/company/?Id=61845",
+      "workingHours": "08.00 - 17.00 (Dushanbadan Jumagacha / С Понедельника по Пятницу)",
+      "services": []
+    },
+    {
+      "id": "clinic1739029821548",
+      "name": "OLMAZOR TUMANI 14-SONLI OILAVIY POLIKLINIKASI",
+      "district": "Olmazor tumani / Алмазарский район",
+      "location": {
+        "latitude": 41.329436,
+        "longitude": 69.234417
+      },
+      "phone": "+998 (71) 244-55-74, +998 (71) 244-89-29",
+      "website": "https://www.goldenpages.uz/uz/company/?Id=85863",
+      "workingHours": "08.00 - 20.00 (Dushanbadan Jumagacha / С Понедельника по Пятницу)",
+      "services": []
+    },
+    {
+      "id": "clinic1739029976426",
+      "name": "OLMAZOR TUMANIDAGI 21-SONLI OILAVIY POLIKLINIKASI",
+      "district": "Olmazor tumani / Алмазарский район",
+      "location": {
+        "latitude": 41.37966,
+        "longitude": 69.220088
+      },
+      "phone": "+998 (71) 227-63-95, +998 (71) 227-62-39",
+      "website": "https://www.goldenpages.uz/uz/company/?Id=3731",
+      "workingHours": "08.00 - 20.00 (Dushanbadan Jumagacha / С Понедельника по Пятницу)",
+      "services": []
+    },
+    {
+      "id": "clinic1739030077146",
+      "name": "OLMAZOR TUMANINING 15-SONLI OLIAVIY POLIKLINIKASI",
+      "district": "Olmazor tumani / Алмазарский район",
+      "location": {
+        "latitude": 41.363588,
+        "longitude": 69.21292
+      },
+      "phone": "+998 (71) 229-06-45, +998 (71) 229-06-44, +998 (71) 229-24-05",
+      "website": "https://www.goldenpages.uz/uz/company/?Id=57208",
+      "workingHours": "08.00 - 18.00 (Dushanbadan Jumagacha / С Понедельника по Пятницу)",
+      "services": []
+    },
+    {
+      "id": "clinic1739030163586",
+      "name": "OLMAZOR TUMANINING 16-SONLI OLIAVIY POLIKLINIKASI",
+      "district": "Olmazor tumani / Алмазарский район",
+      "location": {
+        "latitude": 41.362126,
+        "longitude": 69.182332
+      },
+      "phone": "+998 (71) 214-52-50, +998 (71) 214-43-44",
+      "website": "https://www.goldenpages.uz/uz/company/?Id=57211",
+      "workingHours": "08.00 - 20.00 (Dushanbadan Jumagacha / С Понедельника по Пятницу)",
+      "services": []
+    },
+    {
+      "id": "clinic1739030252896",
+      "name": "OLMAZOR TUMANINING 17-SONLI OILAVIY POLIKLINIKASI",
+      "district": "Olmazor tumani / Алмазарский район",
+      "location": {
+        "latitude": 41.343058,
+        "longitude": 69.228236
+      },
+      "phone": "+998 (71) 244-85-79",
+      "website": "https://www.goldenpages.uz/uz/company/?Id=57206",
+      "workingHours": "08.00 - 20.00 (Dushanbadan Jumagacha / С Понедельника по Пятницу)",
+      "services": []
+    },
+    {
+      "id": "clinic1739030332763",
+      "name": "OLMAZOR TUMANINING 18-SONLI OILAVIY POLIKLINIKASI",
+      "district": "Olmazor tumani / Алмазарский район",
+      "location": {
+        "latitude": 41.348873,
+        "longitude": 69.198718
+      },
+      "phone": "+998 (71) 246-86-11, +998 (71) 246-86-28",
+      "website": "https://www.goldenpages.uz/uz/company/?Id=3726",
+      "workingHours": "08.00 - 20.00 (Dushanbadan Jumagacha / С Понедельника по Пятницу)",
+      "services": []
+    },
+    {
+      "id": "clinic1739030411393",
+      "name": "OLMAZOR TUMANINING 19-SONLI OILAVIY POLIKLINIKASI",
+      "district": "Olmazor tumani / Алмазарский район",
+      "location": {
+        "latitude": 41.335523,
+        "longitude": 69.253075
+      },
+      "phone": "+998 (71) 240-52-41",
+      "website": "https://www.goldenpages.uz/uz/company/?Id=3729",
+      "workingHours": "08.00 - 20.00 (Dushanbadan Jumagacha / С Понедельника по Пятницу)",
+      "services": []
+    },
+    {
+      "id": "clinic1739030500613",
+      "name": "OLMAZOR TUMANINING 20-CHI OILAVIY POLIKLINIKASI",
+      "district": "Olmazor tumani / Алмазарский район",
+      "location": {
+        "latitude": 41.358505,
+        "longitude": 69.237803
+      },
+      "phone": "+998 (71) 248-40-32, +998 (71) 248-40-44",
+      "website": "https://www.goldenpages.uz/uz/company/?Id=3730",
+      "workingHours": "08.00 - 20.00 (Dushanbadan Jumagacha / С Понедельника по Пятницу)",
+      "services": []
+    },
+    {
+      "id": "clinic1739030621282",
+      "name": "OLMAZOR TUMANINING 63-SONLI OILAVIY POLIKLINIKASI",
+      "district": "Olmazor tumani / Алмазарский район",
+      "location": {
+        "latitude": 41.366173,
+        "longitude": 69.197963
+      },
+      "phone": "+998 (71) 227-81-40",
+      "website": "https://www.goldenpages.uz/uz/company/?Id=99568",
+      "workingHours": "08.00 - 18.00 (Yakshanba / Воскресенье - Dam olish / Отдых)",
+      "services": []
+    },
+    {
+      "id": "clinic1739030703719",
+      "name": "OLMAZOR TUMANINING MARKAZIY KO'P TARMOQLI POLIKLINIKASI",
+      "district": "Olmazor tumani / Алмазарский район",
+      "location": {
+        "latitude": 41.333695,
+        "longitude": 69.251682
+      },
+      "phone": "+998 (71) 240-30-91",
+      "website": "https://www.goldenpages.uz/uz/company/?Id=97066",
+      "workingHours": "08.00 - 20.00 (Dushanbadan Jumagacha / С Понедельника по Пятницу)",
+      "services": []
+    },
+    {
+      "id": "clinic1739030795667",
+      "name": "2-TOSHKENT DTI-2 KLINIK SHIFOXONASI",
+      "district": "Olmazor tumani / Алмазарский район",
+      "location": {
+        "latitude": 41.348585,
+        "longitude": 69.172926
+      },
+      "phone": "+998 (78) 150-97-27",
+      "website": "https://www.goldenpages.uz/uz/company/?Id=40233",
+      "workingHours": "08.30 - 14.00 (Dushanbadan Jumagacha / С Понедельника по Пятницу)",
+      "services": []
+    },
+    {
+      "id": "clinic1739031003697",
+      "name": "OLMAZOR TUMANI \"QUMOQ\" FILIALINING 19-SONLI POLIKLINIKASI",
+      "district": "Olmazor tumani / Алмазарский район",
+      "location": {
+        "latitude": 41.335607,
+        "longitude": 69.252795
+      },
+      "phone": "+998 (71) 240-33-66",
+      "website": "https://www.goldenpages.uz/uz/company/?Id=9133",
+      "workingHours": "08.00 - 20.00 (Dushanbadan Jumagacha / С Понедельника по Пятницу)",
+      "services": []
+    },
+    {
+      "id": "clinic1739031150723",
+      "name": "OLMAZOR TUMANI 21-SONLI OILAVIY POLIKLINIKASI FILIALI",
+      "district": "Olmazor tumani / Алмазарский район",
+      "location": {
+        "latitude": 41.37955,
+        "longitude": 69.219913
+      },
+      "phone": "+998 (71) 229-75-02",
+      "website": "https://www.goldenpages.uz/uz/company/?Id=65609",
+      "workingHours": "08.00 - 18.00 (Dushanbadan Jumagacha / С Понедельника по Пятницу)",
+      "services": []
+    },
+    {
+      "id": "clinic1739031238607",
+      "name": "OLMAZOR TUMANINING TALABALAR POLIKLINIKASI",
+      "district": "Olmazor tumani / Алмазарский район",
+      "location": {
+        "latitude": 41.348285,
+        "longitude": 69.212075
+      },
+      "phone": " +998 (71) 246-96-59, +998 (71) 246-88-35",
+      "website": "https://www.goldenpages.uz/uz/company/?Id=9135",
+      "workingHours": "08.00 - 20.00 (Dushanbadan Jumagacha / С Понедельника по Пятницу)",
+      "services": []
+    },
+    {
+      "id": "clinic1739032486310",
+      "name": "OILAVIY SHIFOXONA №25 UCHTEPA TUMANI",
+      "district": "Uchtepa tumani / Учтепинский район",
+      "location": {
+        "latitude": 41.292008,
+        "longitude": 69.190897
+      },
+      "phone": "+998 (71) 274-44-96, +998 (71) 274-44-30",
+      "website": "https://www.goldenpages.uz/uz/company/?Id=3711",
+      "workingHours": "07.00 - 20.00 (Dushanbadan Jumagacha / С Понедельника по Пятницу)",
+      "services": []
+    },
+    {
+      "id": "clinic1739032588636",
+      "name": "UCHTEPA TUMAN TIBBIYOT BIRLASHMASI MARKAZIY KO'PTARMOQLI POLIKLINIKASI",
+      "district": "Uchtepa tumani / Учтепинский район",
+      "location": {
+        "latitude": 41.276476,
+        "longitude": 69.166046
+      },
+      "phone": "+998 (71) 272-91-89, +998 (71) 272-06-21, +998 (71) 271-30-44, +998 (71) 272-99-58",
+      "website": "https://www.goldenpages.uz/uz/company/?Id=90682",
+      "workingHours": "08.00 - 20.00 (Dushanbadan Jumagacha / С Понедельника по Пятницу)",
+      "services": []
+    },
+    {
+      "id": "clinic1739032736907",
+      "name": "UCHTEPA TUMAN TIBBIYOT BIRLASHMASI MARKAZIY KO'PTARMOQLI POLIKLINIKASI O'RIKZOR FILIALI",
+      "district": "Uchtepa tumani / Учтепинский район",
+      "location": {
+        "latitude": 41.276027,
+        "longitude": 69.165849
+      },
+      "phone": "+998 (71) 299-31-60",
+      "website": "https://www.goldenpages.uz/uz/company/?Id=96901",
+      "workingHours": "08.00 - 20.00 (Yakshanba / Воскресенье - Dam olish / Отдых)",
+      "services": []
+    },
+    {
+      "id": "clinic1739032832789",
+      "name": "UCHTEPA TUMANIDAGI 22-SONLI OILAVIY POLIKLINIKASI",
+      "district": "Uchtepa tumani / Учтепинский район",
+      "location": {
+        "latitude": 41.315844,
+        "longitude": 69.165103
+      },
+      "phone": "+998 (71) 247-39-67, +998 (71) 247-39-68",
+      "website": "https://www.goldenpages.uz/uz/company/?Id=41576",
+      "workingHours": "08.00 - 20.00 (Dushanbadan Jumagacha / С Понедельника по Пятницу)",
+      "services": []
+    },
+    {
+      "id": "clinic1739032944929",
+      "name": "UCHTEPA TUMANIDAGI 23-SONLI OILAVIY POLIKLINIKASI",
+      "district": "Uchtepa tumani / Учтепинский район",
+      "location": {
+        "latitude": 41.300597,
+        "longitude": 69.177787
+      },
+      "phone": "+998 (71) 271-47-10, +998 (71) 271-47-50",
+      "website": "https://www.goldenpages.uz/uz/company/?Id=54577",
+      "workingHours": "08.00 - 20.00 (Dushanbadan Jumagacha / С Понедельника по Пятницу)",
+      "services": []
+    },
+    {
+      "id": "clinic1739033028763",
+      "name": "UCHTEPA TUMANIDAGI 26-SONLI OILAVIY POLIKLINIKASI",
+      "district": "Uchtepa tumani / Учтепинский район",
+      "location": {
+        "latitude": 41.311977,
+        "longitude": 69.18977
+      },
+      "phone": "+998 (71) 243-39-66",
+      "website": "https://www.goldenpages.uz/uz/company/?Id=41575",
+      "workingHours": "08.00 - 20.00 (Dushanbadan Jumagacha / С Понедельника по Пятницу)",
+      "services": []
+    },
+    {
+      "id": "clinic1739033106337",
+      "name": "UCHTEPA TUMANINING 24-SONLI OILAVIY POLIKLINIKASI",
+      "district": "Uchtepa tumani / Учтепинский район",
+      "location": {
+        "latitude": 41.279037,
+        "longitude": 69.18516
+      },
+      "phone": "+998 (71) 276-37-64, +998 (71) 276-39-39",
+      "website": "https://www.goldenpages.uz/uz/company/?Id=3697",
+      "workingHours": "08.00 - 20.00 (Dushanbadan Jumagacha / С Понедельника по Пятницу)",
+      "services": []
+    },
+    {
+      "id": "clinic1739033221520",
+      "name": "UCHTEPA TUMAN TIBBIYOT BIRLASHMASI MARKAZIY KO'PTARMOQLI POLIKLINIKASI ALGORITM FILIALI ",
+      "district": "Uchtepa tumani / Учтепинский район",
+      "location": {
+        "latitude": 41.266642,
+        "longitude": 69.150631
+      },
+      "phone": "+998 (71) 270-95-35, +998 (71) 270-01-43",
+      "website": "https://www.goldenpages.uz/uz/company/?Id=92295",
+      "workingHours": "08.00 - 20.00 (Dushanbadan Jumagacha / С Понедельника по Пятницу)",
+      "services": []
+    },
+    {
+      "id": "clinic1739033358516",
+      "name": "UCHTEPA TUMANIDAGI 23-SONLI OILAVIY POLIKLINIKASI \"BIRLIK\" FILIALI",
+      "district": "Uchtepa tumani / Учтепинский район",
+      "location": {
+        "latitude": 41.30069,
+        "longitude": 69.17761
+      },
+      "phone": "+998 (71) 271-47-10",
+      "website": "https://www.goldenpages.uz/uz/company/?Id=101794",
+      "workingHours": "08.00 - 20.00 (Dushanbadan Jumagacha / С Понедельника по Пятницу)",
+      "services": []
     }
   ]
 }
