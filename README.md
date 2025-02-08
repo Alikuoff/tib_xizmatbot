@@ -55,7 +55,7 @@ Ensure your bot listens on `0.0.0.0:3000` for proper connectivity.
 
 ### Step 4: Check Deployment Status
 
-Monitor your bot's deployment at: [Fly.io Monitoring](https://fly.io/apps/desktop-cold-dawn-99/monitoring)
+Monitor your bot's deployment at: [Fly.io Monitoring](https://fly.io/)
 
 ## Continuous Deployment
 
