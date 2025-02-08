@@ -1,29 +1,367 @@
 {
   "clinics": [
     {
-      "id": "clinic1739060914362",
-      "name": "2-SONLI RESPUBLIKA KLINIK SHIFOXONASI HUZURIDAGI 1-SONLI OILAVIY POLIKLINIKASI - Toshkentda",
-      "district": "Mirzo Ulug'bek",
+      "id": "clinic1739020146413",
+      "name": "27-SONLI OILAVIY POLIKLINIKASI YASHNOBOD TUMANI",
+      "district": "Yashnobod tumani / Яшнабадский район",
       "location": {
-        "latitude": 41.342541,
-        "longitude": 69.3391875
+        "latitude": 41.269306,
+        "longitude": 69.322122
       },
-      "phone": "+998 (71) 289-33-76",
-      "website": "",
-      "workingHours": "08:00-18:00 (Yakshanba/Воскресенье - Dam olish/Отдых)",
+      "phone": "+998 (71) 291-66-28, +998 (71) 291-87-99",
+      "website": "https://www.goldenpages.uz/uz/company/?Id=62683",
+      "workingHours": "08.00 - 20.00 (Dushanbadan Jumagacha / С Понедельника по Пятницу)",
       "services": []
     },
     {
-      "id": "clinic1739060914363",
-      "name": "MIRZO-ULUG'BEK TUMANI MARKAZIY DIAGNOSTIKA POLIKLINIKASI",
-      "district": "Mirzo Ulug'bek",
+      "id": "clinic1739020281335",
+      "name": "OILAVIY POLIKLINIKASI #32 YASHNOBOD TUMANI",
+      "district": "Yashnobod tumani / Яшнабадский район",
       "location": {
-        "latitude": 41.354132,
-        "longitude": 69.385962
+        "latitude": 41.287894,
+        "longitude": 69.316729
+      },
+      "phone": "+998 (71) 291-05-25, +998 (71) 231-75-09",
+      "website": "https://www.goldenpages.uz/uz/company/?Id=9453",
+      "workingHours": "08.00 - 20.00",
+      "services": []
+    },
+    {
+      "id": "clinic1739020348419",
+      "name": "YASHNOBOD TUMANI 31-SONLI OILAVIY POLIKLINIKASI",
+      "district": "Yashnobod tumani / Яшнабадский район",
+      "location": {
+        "latitude": 41.298636,
+        "longitude": 69.358514
+      },
+      "phone": "+998 (71) 293-33-87, +998 (71) 293-17-97",
+      "website": "https://www.goldenpages.uz/uz/company/?Id=65475",
+      "workingHours": "08.00 - 20.00 (Dushanbadan Jumagacha / С Понедельника по Пятницу)",
+      "services": []
+    },
+    {
+      "id": "clinic1739020524608",
+      "name": "YASHNOBOD TUMANINING 29-SONLI OILAVIY POLIKLINIKASI",
+      "district": "Yashnobod tumani / Яшнабадский район",
+      "location": {
+        "latitude": 41.241549,
+        "longitude": 69.330549
+      },
+      "phone": "+998 (99) 290-57-22",
+      "website": "https://www.goldenpages.uz/uz/company/?Id=57212",
+      "workingHours": "08.00 - 20.00 (Dushanbadan Jumagacha / С Понедельника по Пятницу)",
+      "services": []
+    },
+    {
+      "id": "clinic1739020590128",
+      "name": "YASHNOBOD TUMANINING 30-CHI OILAVIY POLIKLINIKASI",
+      "district": "Yashnobod tumani / Яшнабадский район",
+      "location": {
+        "latitude": 41.291825,
+        "longitude": 69.350345
+      },
+      "phone": "+998 (71) 296-14-01, +998 (99) 880-14-01",
+      "website": "https://www.goldenpages.uz/uz/company/?Id=3770",
+      "workingHours": "08.00 - 20.00 (Dushanbadan Jumagacha / С Понедельника по Пятницу)",
+      "services": []
+    },
+    {
+      "id": "clinic1739020661643",
+      "name": "YASHNOBOD TUMANINING MARKAZLASHTIRILGAN KO'P TARMOQLI POLIKLINIKASI",
+      "district": "Yashnobod tumani / Яшнабадский район",
+      "location": {
+        "latitude": 41.305597,
+        "longitude": 69.304859
+      },
+      "phone": "+998 (71) 289-57-79",
+      "website": "https://www.goldenpages.uz/uz/company/?Id=89520",
+      "workingHours": "08.00 - 20.00 (Yakshanba / Воскресенье - Dam olish / Отдых)",
+      "services": []
+    },
+    {
+      "id": "clinic1739020732046",
+      "name": "YASHNOBOD TUNANINING 28-SONLI OILAVIY POLIKLINIKASI",
+      "district": "Yashnobod tumani / Яшнабадский район",
+      "location": {
+        "latitude": 41.263816,
+        "longitude": 69.353434
+      },
+      "phone": "+998 (71) 298-26-98",
+      "website": "https://www.goldenpages.uz/uz/company/?Id=3702",
+      "workingHours": "08.00 - 20.00 (Dushanbadan Jumagacha / С Понедельника по Пятницу)",
+      "services": []
+    },
+    {
+      "id": "clinic1739020796789",
+      "name": "MARKAZIY POLIKLINIKA №1",
+      "district": "Yashnobod tumani / Яшнабадский район",
+      "location": {
+        "latitude": 41.303944,
+        "longitude": 69.289744
+      },
+      "phone": "+998 (71) 236-08-84, +998 (71) 236-26-25, 1061, +998 (71) 233-19-03",
+      "website": "https://www.goldenpages.uz/uz/company/?Id=46429",
+      "workingHours": "07.00 - 19.00 (Dushanbadan Jumagacha / С Понедельника по Пятницу)",
+      "services": []
+    },
+    {
+      "id": "clinic1739020861523",
+      "name": "MASLAHAT VA DIAGNOSTIKA POLIKLINIKASISI",
+      "district": "Yashnobod tumani / Яшнабадский район",
+      "location": {
+        "latitude": 41.308563,
+        "longitude": 69.287157
+      },
+      "phone": "+998 (71) 236-75-98, +998 (71) 233-37-03",
+      "website": "https://www.goldenpages.uz/uz/company/?Id=83852",
+      "workingHours": "08.00 - 14.00 (Yakshanba / Воскресенье - Dam olish / Отдых)",
+      "services": []
+    },
+    {
+      "id": "clinic1739020920544",
+      "name": "O'ZBEKISTON RESPUBLIKASI SOG'LIQNI SAQLASH VAZIRLIGI MARKAZIY KLINIK-DIAGNOSTIKA POLIKLINIKASI",
+      "district": "Yashnobod tumani / Яшнабадский район",
+      "location": {
+        "latitude": 41.297718,
+        "longitude": 69.341361
+      },
+      "phone": "+998 (71) 296-30-85, +998 (71) 296-31-87, +998 (71) 296-31-87",
+      "website": "https://www.goldenpages.uz/uz/company/?Id=80259",
+      "workingHours": "08.00 - 14.00 (Dushanbadan Jumagacha / С Понедельника по Пятницу)",
+      "services": []
+    },
+    {
+      "id": "clinic1739021068559",
+      "name": "2-SONLI RESPUBLIKA KLINIK SHIFOXONASI HUZURIDAGI 1-SONLI OILAVIY POLIKLINIKASI ",
+      "district": "Mirzo-Ulug'bek tumani / Мирзо-Улугбекский район",
+      "location": {
+        "latitude": 41.342512,
+        "longitude": 69.339328
+      },
+      "phone": "+998 (71) 289-33-76",
+      "website": "https://www.goldenpages.uz/uz/company/?Id=99562",
+      "workingHours": "08.00 - 18.00 (Yakshanba / Воскресенье - Dam olish / Отдых)",
+      "services": []
+    },
+    {
+      "id": "clinic1739021133620",
+      "name": "MIRZO-ULUG'BEK TUMANI MARKAZIY DIAGNOSTIKA POLIKLINIKASI",
+      "district": "Mirzo-Ulug'bek tumani / Мирзо-Улугбекский район",
+      "location": {
+        "latitude": 41.354268,
+        "longitude": 69.385738
       },
       "phone": "+998 (71) 264-56-15",
-      "website": "",
-      "workingHours": "07:00-22:00 (Dushanbadan Jumagacha/С Понедельника по Пятницу)",
+      "website": "https://www.goldenpages.uz/uz/company/?Id=3682",
+      "workingHours": "07.00 - 20.00 (Dushanbadan Jumagacha / С Понедельника по Пятницу)",
+      "services": []
+    },
+    {
+      "id": "clinic1739021362238",
+      "name": "MIRZO-ULUG'BEK TUMANIDAGI 4-SONLI OILAVIY POLIKLINIKASI",
+      "district": "Mirzo-Ulug'bek tumani / Мирзо-Улугбекский район",
+      "location": {
+        "latitude": 41.331088,
+        "longitude": 69.326
+      },
+      "phone": "+998 (71) 268-44-09 +998 (71) 268-64-24",
+      "website": "https://www.goldenpages.uz/uz/company/?Id=3703",
+      "workingHours": "08.00 - 20.00 (Dushanbadan Jumagacha / С Понедельника по Пятницу)",
+      "services": []
+    },
+    {
+      "id": "clinic1739021882484",
+      "name": "MIRZO-ULUG'BEK TUMANIDAGI 7-SONLI OILAVIY POLIKLINIKASI",
+      "district": "Mirzo-Ulug'bek tumani / Мирзо-Улугбекский район",
+      "location": {
+        "latitude": 41.348819,
+        "longitude": 69.337911
+      },
+      "phone": "+998 (71) 262-13-93, +998 (71) 262-63-43",
+      "website": "https://www.goldenpages.uz/uz/company/?Id=3695",
+      "workingHours": "08:00 – 20:00 (Yakshanba / Воскресенье 09:00 – 17:00)",
+      "services": []
+    },
+    {
+      "id": "clinic1739022133538",
+      "name": "MIRZO-ULUG'BEK TUMANIDAGI 7-SONLI OILAVIY POLIKLINIKASI",
+      "district": "Mirzo-Ulug'bek tumani / Мирзо-Улугбекский район",
+      "location": {
+        "latitude": 41.348569,
+        "longitude": 69.338028
+      },
+      "phone": "+998 (71) 268-92-97, +998 (71) 286-17-05",
+      "website": "https://www.goldenpages.uz/uz/company/?Id=3696",
+      "workingHours": "08.00 - 20.00 (Dushanbadan Jumagacha / С Понедельника по Пятницу)",
+      "services": []
+    },
+    {
+      "id": "clinic1739022290998",
+      "name": "MIRZO-ULUG'BEK TUMANINING 5-CHI OILAVIY POLIKLINIKASI",
+      "district": "Mirzo-Ulug'bek tumani / Мирзо-Улугбекский район",
+      "location": {
+        "latitude": 41.315844,
+        "longitude": 69.291316
+      },
+      "phone": "+998 (71) 237-35-15, +998 (71) 237-35-21, +998 (71) 237-35-24",
+      "website": "https://www.goldenpages.uz/uz/company/?Id=3765",
+      "workingHours": "08.00 - 20.00 (Dushanbadan Jumagacha / С Понедельника по Пятницу)",
+      "services": []
+    },
+    {
+      "id": "clinic1739022438789",
+      "name": "MIRZO-ULUG'BEK TUMANINING 8-CHI OILAVIY POLIKLINIKASI ",
+      "district": "Mirzo-Ulug'bek tumani / Мирзо-Улугбекский район",
+      "location": {
+        "latitude": 41.331054,
+        "longitude": 69.365858
+      },
+      "phone": "+998 (71) 265-72-69, +998 (71) 266-05-56",
+      "website": "https://www.goldenpages.uz/uz/company/?Id=3716",
+      "workingHours": "08.00 - 20.00 (Dushanbadan Jumagacha / С Понедельника по Пятницу)",
+      "services": []
+    },
+    {
+      "id": "clinic1739022558067",
+      "name": "YAKKASAROY TUMANIDAGI 6-SONLI OILAVIY POLIKLINIKASI",
+      "district": "Mirzo-Ulug'bek tumani / Мирзо-Улугбекский район",
+      "location": {
+        "latitude": 41.353896,
+        "longitude": 69.385001
+      },
+      "phone": "+998 (71) 264-07-98, +998 (71) 264-48-69",
+      "website": "https://www.goldenpages.uz/uz/company/?Id=3699",
+      "workingHours": "08.00 - 20.00 (Dushanbadan Jumagacha / С Понедельника по Пятницу)",
+      "services": []
+    },
+    {
+      "id": "clinic1739022676506",
+      "name": "FANLAR AKADEMIYASI POLIKLINIKASI",
+      "district": "Mirzo-Ulug'bek tumani / Мирзо-Улугбекский район",
+      "location": {
+        "latitude": 41.342496,
+        "longitude": 69.339313
+      },
+      "phone": "+998 (71) 262-57-58, +998 (71) 262-12-13",
+      "website": "https://www.goldenpages.uz/uz/company/?Id=92112",
+      "workingHours": "08.00 - 14.00 (Yakshanba / Воскресенье - Dam olish / Отдых)",
+      "services": []
+    },
+    {
+      "id": "clinic1739023234873",
+      "name": "SERGELI TUMANIDAGI 11-SONLI OILAVIY POLIKLINIKASI",
+      "district": "Sergili tumani / Сергильский район",
+      "location": {
+        "latitude": 41.241193,
+        "longitude": 69.19861
+      },
+      "phone": "+998 (71) 287-60-40, +998 (71) 287-52-29",
+      "website": "https://www.goldenpages.uz/uz/company/?Id=9511",
+      "workingHours": "08.00 - 20.00 (Dushanbadan Jumagacha / С Понедельника по Пятницу)",
+      "services": []
+    },
+    {
+      "id": "clinic1739023352541",
+      "name": "SERGELI TUMANIDAGI 61-SONLI OILAVIY POLIKLINIKASI",
+      "district": "Sergili tumani / Сергильский район",
+      "location": {
+        "latitude": 41.230479,
+        "longitude": 69.207647
+      },
+      "phone": "+998 (71) 231-85-41, +998 (71) 231-85-38",
+      "website": "https://www.goldenpages.uz/uz/company/?Id=87221",
+      "workingHours": "08.00 - 20.00 (Dushanbadan Jumagacha / С Понедельника по Пятницу)",
+      "services": []
+    },
+    {
+      "id": "clinic1739023699004",
+      "name": "SERGELI TUMANIDAGI 61-SONLI OILAVIY POLIKLINIKASI FILIALI",
+      "district": "Sergili tumani / Сергильский район",
+      "location": {
+        "latitude": 41.230479,
+        "longitude": 69.207647
+      },
+      "phone": "+998 (71) 258-22-35",
+      "website": "https://www.goldenpages.uz/uz/company/?Id=99567",
+      "workingHours": "08.00 - 20.00 (Dushanbadan Jumagacha / С Понедельника по Пятницу)",
+      "services": []
+    },
+    {
+      "id": "clinic1739023796558",
+      "name": "SERGELI TUMANINING 10-SONLI OILAVIY POLIKLINIKASI",
+      "district": "Sergili tumani / Сергильский район",
+      "location": {
+        "latitude": 41.216975,
+        "longitude": 69.219648
+      },
+      "phone": "+998 (71) 251-64-04, +998 (71) 251-64-65",
+      "website": "https://www.goldenpages.uz/uz/company/?Id=3717",
+      "workingHours": "08.00 - 20.00 (Dushanbadan Jumagacha / С Понедельника по Пятницу)",
+      "services": []
+    },
+    {
+      "id": "clinic1739023913123",
+      "name": "SIRG'ALI TUMANI 13-SONLI OILAVIY POLIKLINIKASI",
+      "district": "Sergili tumani / Сергильский район",
+      "location": {
+        "latitude": 41.268926,
+        "longitude": 69.283527
+      },
+      "phone": "+998 (71) 215-96-06, +998 (71) 215-96-66",
+      "website": "https://www.goldenpages.uz/uz/company/?Id=64893",
+      "workingHours": "08.00 - 20.00 (Dushanbadan Jumagacha / С Понедельника по Пятницу)",
+      "services": []
+    },
+    {
+      "id": "clinic1739023997881",
+      "name": "SIRG'ALI TUMANINING 12-SONLI OILAVIY POLIKLINIKASI",
+      "district": "Sergili tumani / Сергильский район",
+      "location": {
+        "latitude": 41.245688,
+        "longitude": 69.299634
+      },
+      "phone": "+998 (71) 290-98-71, +998 (71) 290-88-63",
+      "website": "https://www.goldenpages.uz/uz/company/?Id=3727",
+      "workingHours": "08.00 - 20.00 (Dushanbadan Jumagacha / С Понедельника по Пятницу)",
+      "services": []
+    },
+    {
+      "id": "clinic1739024107054",
+      "name": "SIRG'ALI TUMANINING 68-SONLI OILAVIY POLIKLINIKASI",
+      "district": "Sergili tumani / Сергильский район",
+      "location": {
+        "latitude": 41.238793,
+        "longitude": 69.273942
+      },
+      "phone": "  ",
+      "website": "https://www.goldenpages.uz/uz/company/?Id=107395",
+      "workingHours": "08.00 - 20.00 (Dushanbadan Jumagacha / С Понедельника по Пятницу)",
+      "services": []
+    },
+    {
+      "id": "clinic1739024205428",
+      "name": "YANGIHAYOT TUMANI MARKAZIY POLIKLINIKASI",
+      "district": "Sergili tumani / Сергильский район",
+      "location": {
+        "latitude": 41.1976,
+        "longitude": 69.214411
+      },
+      "phone": "+998 (71) 258-14-15, +998 (71) 281-78-01",
+      "website": "https://www.goldenpages.uz/uz/company/?Id=12837",
+      "workingHours": "08.00 - 20.00 (Dushanbadan Jumagacha / С Понедельника по Пятницу)",
+      "services": []
+    },
+    {
+      "id": "clinic1739024327435",
+      "name": "11-SONLI OILAVIY POLIKLINIKASI SERGELI FILIALI",
+      "district": "Sergili tumani / Сергильский район",
+      "location": {
+        "latitude": 41.241647,
+        "longitude": 69.198382
+      },
+      "phone": "+998 (71) 215-88-32",
+      "website": "https://www.goldenpages.uz/uz/company/?Id=66008",
+      "workingHours": "08.00 - 18.00 (Dushanbadan Jumagacha / С Понедельника по Пятницу)",
       "services": []
     }
   ]
