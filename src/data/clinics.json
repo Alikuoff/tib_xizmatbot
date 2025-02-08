@@ -1,0 +1,30 @@
+{
+  "clinics": [
+    {
+      "id": "clinic1739060914362",
+      "name": "2-SONLI RESPUBLIKA KLINIK SHIFOXONASI HUZURIDAGI 1-SONLI OILAVIY POLIKLINIKASI - Toshkentda",
+      "district": "Mirzo Ulug'bek",
+      "location": {
+        "latitude": 41.342541,
+        "longitude": 69.3391875
+      },
+      "phone": "+998 (71) 289-33-76",
+      "website": "",
+      "workingHours": "08:00-18:00 (Yakshanba/Воскресенье - Dam olish/Отдых)",
+      "services": []
+    },
+    {
+      "id": "clinic1739060914363",
+      "name": "MIRZO-ULUG'BEK TUMANI MARKAZIY DIAGNOSTIKA POLIKLINIKASI",
+      "district": "Mirzo Ulug'bek",
+      "location": {
+        "latitude": 41.354132,
+        "longitude": 69.385962
+      },
+      "phone": "+998 (71) 264-56-15",
+      "website": "",
+      "workingHours": "07:00-22:00 (Dushanbadan Jumagacha/С Понедельника по Пятницу)",
+      "services": []
+    }
+  ]
+}
