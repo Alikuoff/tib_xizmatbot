@@ -1,0 +1,81 @@
+{
+  "districts": [
+    {
+      "id": "bektemir",
+      "name": {
+        "ru": "Бектемирский",
+        "uz": "Bektemir"
+      }
+    },
+    {
+      "id": "mirabad",
+      "name": {
+        "ru": "Мирабадский",
+        "uz": "Mirobod"
+      }
+    },
+    {
+      "id": "mirzo-ulugbek",
+      "name": {
+        "ru": "Мирзо-Улугбекский",
+        "uz": "Mirzo Ulug'bek"
+      }
+    },
+    {
+      "id": "sergeli",
+      "name": {
+        "ru": "Сергелийский",
+        "uz": "Sergeli"
+      }
+    },
+    {
+      "id": "almazar",
+      "name": {
+        "ru": "Алмазарский",
+        "uz": "Olmazor"
+      }
+    },
+    {
+      "id": "chilanzar",
+      "name": {
+        "ru": "Чиланзарский",
+        "uz": "Chilonzor"
+      }
+    },
+    {
+      "id": "shayhantahur",
+      "name": {
+        "ru": "Шайхантахурский",
+        "uz": "Shayxontohur"
+      }
+    },
+    {
+      "id": "yunusabad",
+      "name": {
+        "ru": "Юнусабадский",
+        "uz": "Yunusobod"
+      }
+    },
+    {
+      "id": "yakkasaray",
+      "name": {
+        "ru": "Яккасарайский",
+        "uz": "Yakkasaroy"
+      }
+    },
+    {
+      "id": "yashnabad",
+      "name": {
+        "ru": "Яшнабадский",
+        "uz": "Yashnobod"
+      }
+    },
+    {
+      "id": "uchtepa",
+      "name": {
+        "ru": "Учтепинский",
+        "uz": "Uchtepa"
+      }
+    }
+  ]
+}

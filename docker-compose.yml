@@ -1,0 +1,13 @@
+version: '3.8'
+
+services:
+  telegram-bot:
+    build: .
+    container_name: telegram-bot
+    restart: always
+    working_dir: /app
+    volumes:
+      - .:/app
+    environment:
+      - NODE_ENV=production
+    command: ["npm", "run", "dev"]
