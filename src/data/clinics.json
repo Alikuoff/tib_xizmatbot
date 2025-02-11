@@ -1,6 +1,4524 @@
 {
   "clinics": [
     {
+      "name": "Horev Medical Center",
+      "district": "Yashnobod tumani / Яшнабадский район",
+      "address": "St. Maxtumquli, 105",
+      "location": {
+        "latitude": 41.308256,
+        "longitude": 69.298905
+      },
+      "phone": "+998 (71) 200-04-03, +998 (71) 289-41-41, +998 (71) 289-61-61",
+      "website": " https://horevmedical.uz/",
+      "workingHours": "Dushanbadan Jumagacha / С Понедельника по Пятницу - 08:00-18:00, Shanba / Суббота - 08:00-17:00, Yakshanba / Воскресенье - Dam olish / Отдых",
+      "services": [
+        {
+          "id": "service17391918724250",
+          "name": {
+            "ru": "Кровь на лямблии, антитела Ig G",
+            "uz": "Lambliya uchun qon, Ig G antikorlari"
+          },
+          "price": 55000
+        },
+        {
+          "id": "service17391918724251",
+          "name": {
+            "ru": "Кровь на лямблии, антитела Ig M",
+            "uz": "Lambliya uchun qon, Ig M antikorlari"
+          },
+          "price": 55000
+        },
+        {
+          "id": "service17391918724252",
+          "name": {
+            "ru": "Кровь на лямблии, антитела Ig A",
+            "uz": "Lambliya uchun qon, Ig A antikorlari"
+          },
+          "price": 55000
+        },
+        {
+          "id": "service17391918724253",
+          "name": {
+            "ru": "Кровь на лямблии, антитела Ig G+M+A",
+            "uz": "Lambliya uchun qon, Ig G+M+A antikorlari"
+          },
+          "price": 150000
+        },
+        {
+          "id": "service17391918724254",
+          "name": {
+            "ru": "Кровь на антитела к аскаридам Ig G",
+            "uz": "Yumaloq chuvalchanglarga antitellar uchun qon Ig G"
+          },
+          "price": 55000
+        },
+        {
+          "id": "service17391918724255",
+          "name": {
+            "ru": "Антитела к рецептором ТТГ (TRAb)",
+            "uz": "TSH retseptorlariga (TRAb) antikorlar"
+          },
+          "price": 185000
+        },
+        {
+          "id": "service17391918724256",
+          "name": {
+            "ru": "Витамин А",
+            "uz": "A vitamini"
+          },
+          "price": 340000
+        },
+        {
+          "id": "service17391918724257",
+          "name": {
+            "ru": "Витамин С",
+            "uz": "S vitamini"
+          },
+          "price": 340000
+        },
+        {
+          "id": "service17391918724258",
+          "name": {
+            "ru": "Железо",
+            "uz": "Temir"
+          },
+          "price": 80000
+        },
+        {
+          "id": "service17391918724259",
+          "name": {
+            "ru": "Цинк",
+            "uz": "Rux"
+          },
+          "price": 80000
+        },
+        {
+          "id": "service173919187242510",
+          "name": {
+            "ru": "ЛГ (Лютеинезирующий гормон)",
+            "uz": "LH (Luteinlashtiruvchi gormon)"
+          },
+          "price": 110000
+        },
+        {
+          "id": "service173919187242511",
+          "name": {
+            "ru": "ФСГ (Фолликулостимулирующий гормон)",
+            "uz": "FSH (Follikulani ogohlantiruvchi gormon)"
+          },
+          "price": 110000
+        },
+        {
+          "id": "service173919187242512",
+          "name": {
+            "ru": "Пролактин",
+            "uz": "Prolaktin"
+          },
+          "price": 110000
+        },
+        {
+          "id": "service173919187242513",
+          "name": {
+            "ru": "Тестестерон",
+            "uz": "Testosteron"
+          },
+          "price": 110000
+        },
+        {
+          "id": "service173919187242514",
+          "name": {
+            "ru": "Эстрадиол",
+            "uz": "Estradiol"
+          },
+          "price": 110000
+        },
+        {
+          "id": "service173919187242515",
+          "name": {
+            "ru": "Тестостерон_свободный",
+            "uz": "Testosteronsiz"
+          },
+          "price": 110000
+        },
+        {
+          "id": "service173919187242516",
+          "name": {
+            "ru": "Прогестерон",
+            "uz": "Progesteron"
+          },
+          "price": 110000
+        },
+        {
+          "id": "service173919187242517",
+          "name": {
+            "ru": "Кортизол",
+            "uz": "Kortizol"
+          },
+          "price": 110000
+        },
+        {
+          "id": "service173919187242518",
+          "name": {
+            "ru": "Т3 Трийодтиронин",
+            "uz": "T3 Triiodotironin"
+          },
+          "price": 110000
+        },
+        {
+          "id": "service173919187242519",
+          "name": {
+            "ru": "FT3 (Свободный трийодтиронин)",
+            "uz": "FT3 (Bepul triiodotironin)"
+          },
+          "price": 110000
+        },
+        {
+          "id": "service173919187242520",
+          "name": {
+            "ru": "Т4 Тироксин",
+            "uz": "T4 Tiroksin"
+          },
+          "price": 110000
+        },
+        {
+          "id": "service173919187242521",
+          "name": {
+            "ru": "FT4 (Свободный тироксин)",
+            "uz": "FT4 (bepul tiroksin)"
+          },
+          "price": 110000
+        },
+        {
+          "id": "service173919187242522",
+          "name": {
+            "ru": "АТПО (Антитела к тиреопероксидазе)",
+            "uz": "ATPO (Qalqonsimon peroksidazaga antikorlar)"
+          },
+          "price": 125000
+        },
+        {
+          "id": "service173919187242523",
+          "name": {
+            "ru": "ТТГ (Тиреотропный гормон)",
+            "uz": "TSH (Qalqonsimon bezni ogohlantiruvchi gormon)"
+          },
+          "price": 110000
+        },
+        {
+          "id": "service173919187242524",
+          "name": {
+            "ru": "DHEA - S (Дегидроэпиандростерена сульфат)",
+            "uz": "DHEA - S (degidroepiandrosteren sulfat)"
+          },
+          "price": 150000
+        },
+        {
+          "id": "service173919187242525",
+          "name": {
+            "ru": "17 - ОН - прогестерон",
+            "uz": "17 - OH - progesteron"
+          },
+          "price": 150000
+        },
+        {
+          "id": "service173919187242526",
+          "name": {
+            "ru": "Хорионический гонадотропин (HCG) количественный",
+            "uz": "Inson xorionik gonadotropini (HCG) miqdori"
+          },
+          "price": 150000
+        },
+        {
+          "id": "service173919187242527",
+          "name": {
+            "ru": "Хорионический гонадотропин (HCG) качественный",
+            "uz": "Xorionik gonadotropin (HCG) sifati"
+          },
+          "price": 100000
+        },
+        {
+          "id": "service173919187242528",
+          "name": {
+            "ru": "Антиспермальные антитела",
+            "uz": "Antisperm antikorlari"
+          },
+          "price": 180000
+        },
+        {
+          "id": "service173919187242529",
+          "name": {
+            "ru": "Антифосфолипид_скрин_Ig_G+M",
+            "uz": "Antifosfolipid_ekran_Ig_G+M"
+          },
+          "price": 300000
+        },
+        {
+          "id": "service173919187242530",
+          "name": {
+            "ru": "Инсулин",
+            "uz": "Insulin"
+          },
+          "price": 150000
+        },
+        {
+          "id": "service173919187242531",
+          "name": {
+            "ru": "Анти ТГ",
+            "uz": "Anti TG"
+          },
+          "price": 120000
+        },
+        {
+          "id": "service173919187242532",
+          "name": {
+            "ru": "АМГ (Антимюллеров гормон)",
+            "uz": "AMH (AntiMyuller gormoni)"
+          },
+          "price": 400000
+        },
+        {
+          "id": "service173919187242533",
+          "name": {
+            "ru": "Ферритин",
+            "uz": "Ferritin"
+          },
+          "price": 140000
+        },
+        {
+          "id": "service173919187242534",
+          "name": {
+            "ru": "Гомоцистеин",
+            "uz": "Gomosistein"
+          },
+          "price": 340000
+        },
+        {
+          "id": "service173919187242535",
+          "name": {
+            "ru": "Кальцитонин",
+            "uz": "Kalsitonin"
+          },
+          "price": 250000
+        },
+        {
+          "id": "service173919187242536",
+          "name": {
+            "ru": "Прокальцитонин",
+            "uz": "Prokalsitonin"
+          },
+          "price": 300000
+        },
+        {
+          "id": "service173919187242537",
+          "name": {
+            "ru": "Паратгормон",
+            "uz": "Paratiroid gormoni"
+          },
+          "price": 230000
+        },
+        {
+          "id": "service173919187242538",
+          "name": {
+            "ru": "Инсулин+Индекс Hомо",
+            "uz": "Insulin + Homo indeksi"
+          },
+          "price": 210000
+        },
+        {
+          "id": "service173919187242539",
+          "name": {
+            "ru": "ГСПГ (ССГ)",
+            "uz": "GSPG (SSG)"
+          },
+          "price": 150000
+        },
+        {
+          "id": "service173919187242540",
+          "name": {
+            "ru": "АФП_ХГЧ_количественный",
+            "uz": "AFP_HCG_miqdori"
+          },
+          "price": 450000
+        },
+        {
+          "id": "service173919187242541",
+          "name": {
+            "ru": "Ингибин В",
+            "uz": "Inhibin B"
+          },
+          "price": 330000
+        },
+        {
+          "id": "service173919187242542",
+          "name": {
+            "ru": "Сердечный тропонин",
+            "uz": "Yurak troponini"
+          },
+          "price": 80000
+        },
+        {
+          "id": "service173919187242543",
+          "name": {
+            "ru": "Chlamydia trachomatis",
+            "uz": "Chlamydia trachomatis"
+          },
+          "price": 200000
+        },
+        {
+          "id": "service173919187242544",
+          "name": {
+            "ru": "Ureaplasma Urealiticum + parvum",
+            "uz": "Ureaplasma Urealiticum + parvum"
+          },
+          "price": 200000
+        },
+        {
+          "id": "service173919187242545",
+          "name": {
+            "ru": "Mycoplasma hominis",
+            "uz": "Mycoplasma hominis"
+          },
+          "price": 200000
+        },
+        {
+          "id": "service173919187242546",
+          "name": {
+            "ru": "Mycoplasma genitalis",
+            "uz": "Mycoplasma genitalis"
+          },
+          "price": 200000
+        },
+        {
+          "id": "service173919187242547",
+          "name": {
+            "ru": "CMV",
+            "uz": "CMV"
+          },
+          "price": 200000
+        },
+        {
+          "id": "service173919187242548",
+          "name": {
+            "ru": "HSV 1,2",
+            "uz": "HSV 1.2"
+          },
+          "price": 200000
+        },
+        {
+          "id": "service173919187242549",
+          "name": {
+            "ru": "Neisseria gonorrhoeae - 1,2",
+            "uz": "Neisseria gonorrhoeae - 1,2"
+          },
+          "price": 200000
+        },
+        {
+          "id": "service173919187242550",
+          "name": {
+            "ru": "Gardnerella vaginalis",
+            "uz": "Gardnerella vaginalis"
+          },
+          "price": 200000
+        },
+        {
+          "id": "service173919187242551",
+          "name": {
+            "ru": "Trichomonas vaginalis",
+            "uz": "Trichomonas vaginalis"
+          },
+          "price": 200000
+        },
+        {
+          "id": "service173919187242552",
+          "name": {
+            "ru": "Вирус паппиломы HPV 16",
+            "uz": "Papilloma virusi HPV 16"
+          },
+          "price": 200000
+        },
+        {
+          "id": "service173919187242553",
+          "name": {
+            "ru": "Вирус паппиломы HPV 18",
+            "uz": "Papilloma virusi HPV 18"
+          },
+          "price": 200000
+        },
+        {
+          "id": "service173919187242554",
+          "name": {
+            "ru": "HBV качественный «В»",
+            "uz": "HBV sifati \"B\""
+          },
+          "price": 300000
+        },
+        {
+          "id": "service173919187242555",
+          "name": {
+            "ru": "HBV количественный «В»",
+            "uz": "HBV miqdoriy \"B\""
+          },
+          "price": 350000
+        },
+        {
+          "id": "service173919187242556",
+          "name": {
+            "ru": "HCV качественный «С»",
+            "uz": "HCV sifati \"C\""
+          },
+          "price": 300000
+        },
+        {
+          "id": "service173919187242557",
+          "name": {
+            "ru": "HCV количественный «С»",
+            "uz": "HCV miqdoriy \"C\""
+          },
+          "price": 350000
+        },
+        {
+          "id": "service173919187242558",
+          "name": {
+            "ru": "ПЦР Квант - 15 на ВПЧ",
+            "uz": "HPV uchun PCR Quantum - 15"
+          },
+          "price": 300000
+        },
+        {
+          "id": "service173919187242559",
+          "name": {
+            "ru": "ФЕМОФЛОР - СКРИН",
+            "uz": "FEMOFLOR - EKRAN"
+          },
+          "price": 700000
+        },
+        {
+          "id": "service173919187242560",
+          "name": {
+            "ru": "АНДРОФЛОР - СКРИН",
+            "uz": "ANDROFLOOR - EKRAN"
+          },
+          "price": 700000
+        },
+        {
+          "id": "service173919187242561",
+          "name": {
+            "ru": "Кровь на HBs - антиген (гепатит В) ИФА методом",
+            "uz": "HBs - antigen (gepatit B) uchun qon Elishay usuli"
+          },
+          "price": 120000
+        },
+        {
+          "id": "service173919187242562",
+          "name": {
+            "ru": "Кровь на НСv - антиген (гепатит С) ИФА методом",
+            "uz": "NSv - antigen (gepatit C) uchun qon Elishay usuli"
+          },
+          "price": 120000
+        },
+        {
+          "id": "service173919187242563",
+          "name": {
+            "ru": "Кровь на HBs - антиген (гепатит В) Экспресс метод",
+            "uz": "HBs - antigen (gepatit B) uchun qon ekspress usuli"
+          },
+          "price": 100000
+        },
+        {
+          "id": "service173919187242564",
+          "name": {
+            "ru": "Кровь на НСv - антиген (гепатит С) Экспресс метод",
+            "uz": "NSv - antigen (gepatit C) uchun qon Ekspress usuli"
+          },
+          "price": 100000
+        },
+        {
+          "id": "service173919187242565",
+          "name": {
+            "ru": "Комплексная биохимия",
+            "uz": "Kompleks biokimyo"
+          },
+          "price": 650000
+        },
+        {
+          "id": "service173919187242566",
+          "name": {
+            "ru": "Малая биохимия",
+            "uz": "Kichik biokimyo"
+          },
+          "price": 330000
+        },
+        {
+          "id": "service173919187242567",
+          "name": {
+            "ru": "Липидный спектр",
+            "uz": "Lipid spektri"
+          },
+          "price": 250000
+        },
+        {
+          "id": "service173919187242568",
+          "name": {
+            "ru": "Печеночная проба",
+            "uz": "Jigar funktsiyasi testi"
+          },
+          "price": 400000
+        },
+        {
+          "id": "service173919187242569",
+          "name": {
+            "ru": "Альбумин",
+            "uz": "Albumin"
+          },
+          "price": 60000
+        },
+        {
+          "id": "service173919187242570",
+          "name": {
+            "ru": "Общий белок",
+            "uz": "Jami protein"
+          },
+          "price": 60000
+        },
+        {
+          "id": "service173919187242571",
+          "name": {
+            "ru": "Глюкоза",
+            "uz": "Glyukoza"
+          },
+          "price": 60000
+        },
+        {
+          "id": "service173919187242572",
+          "name": {
+            "ru": "Холестерин",
+            "uz": "Xolesterin"
+          },
+          "price": 60000
+        },
+        {
+          "id": "service173919187242573",
+          "name": {
+            "ru": "Липиды низкой плотности",
+            "uz": "Past zichlikdagi lipidlar"
+          },
+          "price": 60000
+        },
+        {
+          "id": "service173919187242574",
+          "name": {
+            "ru": "Липиды высокой плотности",
+            "uz": "Yuqori zichlikdagi lipidlar"
+          },
+          "price": 60000
+        },
+        {
+          "id": "service173919187242575",
+          "name": {
+            "ru": "Мочевая кислота",
+            "uz": "Siydik kislotasi"
+          },
+          "price": 60000
+        },
+        {
+          "id": "service173919187242576",
+          "name": {
+            "ru": "Триглицериды",
+            "uz": "Triglitseridlar"
+          },
+          "price": 60000
+        },
+        {
+          "id": "service173919187242577",
+          "name": {
+            "ru": "АЛТ",
+            "uz": "ALT"
+          },
+          "price": 60000
+        },
+        {
+          "id": "service173919187242578",
+          "name": {
+            "ru": "АСТ",
+            "uz": "AST"
+          },
+          "price": 60000
+        },
+        {
+          "id": "service173919187242579",
+          "name": {
+            "ru": "Билирубин общий",
+            "uz": "Jami bilirubin"
+          },
+          "price": 60000
+        },
+        {
+          "id": "service173919187242580",
+          "name": {
+            "ru": "Билирубин прямой",
+            "uz": "To'g'ridan - to'g'ri bilirubin"
+          },
+          "price": 60000
+        },
+        {
+          "id": "service173919187242581",
+          "name": {
+            "ru": "Билирубин непрямой",
+            "uz": "Bilvosita bilirubin"
+          },
+          "price": 60000
+        },
+        {
+          "id": "service173919187242582",
+          "name": {
+            "ru": "ЛДГ (Лактатдегидрогеназа)",
+            "uz": "LDH (laktat dehidrogenaza)"
+          },
+          "price": 60000
+        },
+        {
+          "id": "service173919187242583",
+          "name": {
+            "ru": "Гамма ГТ",
+            "uz": "Gamma GT"
+          },
+          "price": 60000
+        },
+        {
+          "id": "service173919187242584",
+          "name": {
+            "ru": "Мочевина",
+            "uz": "Karbamid"
+          },
+          "price": 60000
+        },
+        {
+          "id": "service173919187242585",
+          "name": {
+            "ru": "Креатинин",
+            "uz": "Kreatinin"
+          },
+          "price": 60000
+        },
+        {
+          "id": "service173919187242586",
+          "name": {
+            "ru": "Щелочная фосфатаза",
+            "uz": "Ishqoriy fosfataza"
+          },
+          "price": 60000
+        },
+        {
+          "id": "service173919187242587",
+          "name": {
+            "ru": "А - Амилаза",
+            "uz": "A - Amilaza"
+          },
+          "price": 60000
+        },
+        {
+          "id": "service173919187242588",
+          "name": {
+            "ru": "Электролиты крови: кальций",
+            "uz": "Qon elektrolitlari: kaltsiy"
+          },
+          "price": 80000
+        },
+        {
+          "id": "service173919187242589",
+          "name": {
+            "ru": "Электролиты крови: калий",
+            "uz": "Qon elektrolitlari: kaliy"
+          },
+          "price": 80000
+        },
+        {
+          "id": "service173919187242590",
+          "name": {
+            "ru": "Электролиты крови: магний",
+            "uz": "Qon elektrolitlari: magniy"
+          },
+          "price": 80000
+        },
+        {
+          "id": "service173919187242591",
+          "name": {
+            "ru": "Электролиты крови: натрий",
+            "uz": "Qon elektrolitlari: natriy"
+          },
+          "price": 80000
+        },
+        {
+          "id": "service173919187242592",
+          "name": {
+            "ru": "Ревмопроба",
+            "uz": "Revmatik test"
+          },
+          "price": 170000
+        },
+        {
+          "id": "service173919187242593",
+          "name": {
+            "ru": "АСЛО",
+            "uz": "ASLO"
+          },
+          "price": 60000
+        },
+        {
+          "id": "service173919187242594",
+          "name": {
+            "ru": "Комплекс электролитов",
+            "uz": "Elektrolitlar kompleksi"
+          },
+          "price": 480000
+        },
+        {
+          "id": "service173919187242595",
+          "name": {
+            "ru": "С - реактивный белок",
+            "uz": "C - reaktiv oqsil"
+          },
+          "price": 60000
+        },
+        {
+          "id": "service173919187242596",
+          "name": {
+            "ru": "Ревматоидный фактор",
+            "uz": "Revmatoid omil"
+          },
+          "price": 60000
+        },
+        {
+          "id": "service173919187242597",
+          "name": {
+            "ru": "ОАК (24 показателя)",
+            "uz": "OAK (24 ko'rsatkich)"
+          },
+          "price": 150000
+        },
+        {
+          "id": "service173919187242598",
+          "name": {
+            "ru": "Гликированный гемоглобин",
+            "uz": "Glikatlangan gemoglobin"
+          },
+          "price": 130000
+        },
+        {
+          "id": "service173919187242599",
+          "name": {
+            "ru": "Витамин В12",
+            "uz": "Vitamin B12"
+          },
+          "price": 200000
+        },
+        {
+          "id": "service1739191872425100",
+          "name": {
+            "ru": "Иммуноглобулин Е",
+            "uz": "Immunoglobulin E"
+          },
+          "price": 150000
+        },
+        {
+          "id": "service1739191872425101",
+          "name": {
+            "ru": "Фолиевая кислота",
+            "uz": "Folik kislota"
+          },
+          "price": 170000
+        },
+        {
+          "id": "service1739191872425102",
+          "name": {
+            "ru": "Витамин D",
+            "uz": "D vitamini"
+          },
+          "price": 280000
+        },
+        {
+          "id": "service1739191872425103",
+          "name": {
+            "ru": "Д - димер",
+            "uz": "D - dimer"
+          },
+          "price": 180000
+        },
+        {
+          "id": "service1739191872425104",
+          "name": {
+            "ru": "ВСК",
+            "uz": "VSK"
+          },
+          "price": 55000
+        },
+        {
+          "id": "service1739191872425105",
+          "name": {
+            "ru": "Протромбиновый индекс (Время по Квику)",
+            "uz": "Protrombin indeksi (Tez vaqt)"
+          },
+          "price": 55000
+        },
+        {
+          "id": "service1739191872425106",
+          "name": {
+            "ru": "Протромбиновое время",
+            "uz": "Protrombin vaqti"
+          },
+          "price": 55000
+        },
+        {
+          "id": "service1739191872425107",
+          "name": {
+            "ru": "Фибриноген",
+            "uz": "Fibrinogen"
+          },
+          "price": 90000
+        },
+        {
+          "id": "service1739191872425108",
+          "name": {
+            "ru": "Активированное частичное тромбопластиновое время (АчТВ)",
+            "uz": "Faollashgan qisman tromboplastin vaqti (APTT)"
+          },
+          "price": 55000
+        },
+        {
+          "id": "service1739191872425109",
+          "name": {
+            "ru": "РЭА",
+            "uz": "REA"
+          },
+          "price": 150000
+        },
+        {
+          "id": "service1739191872425110",
+          "name": {
+            "ru": "МНО (INR)",
+            "uz": "INR"
+          },
+          "price": 55000
+        },
+        {
+          "id": "service1739191872425111",
+          "name": {
+            "ru": "СА - 125",
+            "uz": "SA - 125"
+          },
+          "price": 170000
+        },
+        {
+          "id": "service1739191872425112",
+          "name": {
+            "ru": "СА - 153",
+            "uz": "SA - 153"
+          },
+          "price": 150000
+        },
+        {
+          "id": "service1739191872425113",
+          "name": {
+            "ru": "Альфа - фетопротеин (АФП)",
+            "uz": "Alfa - fetoprotein (AFP)"
+          },
+          "price": 150000
+        },
+        {
+          "id": "service1739191872425114",
+          "name": {
+            "ru": "HE4/ CA - 125",
+            "uz": "HE4/ CA - 125"
+          },
+          "price": 370000
+        },
+        {
+          "id": "service1739191872425115",
+          "name": {
+            "ru": "ПСА (общий)",
+            "uz": "PSA (umumiy)"
+          },
+          "price": 150000
+        },
+        {
+          "id": "service1739191872425116",
+          "name": {
+            "ru": "ПСА (общий)+(свободный)",
+            "uz": "PSA (jami) + (bepul)"
+          },
+          "price": 300000
+        },
+        {
+          "id": "service1739191872425117",
+          "name": {
+            "ru": "Cyfra 21 - 1",
+            "uz": "Cyfra 21 - 1"
+          },
+          "price": 120000
+        },
+        {
+          "id": "service1739191872425118",
+          "name": {
+            "ru": "Ca 19 - 9",
+            "uz": "19 - 9 dan"
+          },
+          "price": 150000
+        },
+        {
+          "id": "service1739191872425119",
+          "name": {
+            "ru": "Цин - диаг тест",
+            "uz": "Tsin - diag testi"
+          },
+          "price": 100000
+        },
+        {
+          "id": "service17391920771700",
+          "name": {
+            "ru": "Проктологические больные (без оперативное лечение)",
+            "uz": "Proktologik bemorlar (jarrohliksiz davolash)"
+          },
+          "price": 230000
+        },
+        {
+          "id": "service17391920771701",
+          "name": {
+            "ru": "Варикоз нижних конечностей (без оперативное лечение)",
+            "uz": "Pastki ekstremitalarning varikoz kengayishi (jarrohliksiz davolash)"
+          },
+          "price": 230000
+        },
+        {
+          "id": "service17391920771702",
+          "name": {
+            "ru": "Опорно - двигательная система (без оперативное лечение)",
+            "uz": "Tayanch - harakat tizimi (jarrohliksiz davolash)"
+          },
+          "price": 230000
+        },
+        {
+          "id": "service17391920771703",
+          "name": {
+            "ru": "ЖКТ (без оперативное лечение)",
+            "uz": "Oshqozon - ichak trakti (jarrohliksiz davolash)"
+          },
+          "price": 230000
+        },
+        {
+          "id": "service17391920771704",
+          "name": {
+            "ru": "Удаление поверхностно расположенных инородный тел",
+            "uz": "Yuzaki begona jismlarni olib tashlash"
+          },
+          "price": 380000
+        },
+        {
+          "id": "service17391920771705",
+          "name": {
+            "ru": "Вскрытние панариция. Панарихий",
+            "uz": "Panaritiumning ochilishi. Panarihiy"
+          },
+          "price": 340000
+        },
+        {
+          "id": "service17391920771706",
+          "name": {
+            "ru": "Некрэктомия",
+            "uz": "Nekrektomiya"
+          },
+          "price": 480000
+        },
+        {
+          "id": "service17391920771707",
+          "name": {
+            "ru": "Иссечение пораженной кожи",
+            "uz": "Zararlangan terini kesish"
+          },
+          "price": 340000
+        },
+        {
+          "id": "service17391920771708",
+          "name": {
+            "ru": "Хирургическая обработка раны и инфицированной ткани",
+            "uz": "Yara va zararlangan to'qimalarni jarrohlik yo'li bilan davolash"
+          },
+          "price": 480000
+        },
+        {
+          "id": "service17391920771709",
+          "name": {
+            "ru": "Иссечение пораженной подкожно - жировой клетчатки",
+            "uz": "Zararlangan teri osti yog 'to'qimasini kesish"
+          },
+          "price": 500000
+        },
+        {
+          "id": "service173919207717010",
+          "name": {
+            "ru": "Сшивание кожи и подкожно - жировой клетчатки",
+            "uz": "Teri va teri osti yog'larini tikish"
+          },
+          "price": 560000
+        },
+        {
+          "id": "service173919207717011",
+          "name": {
+            "ru": "Ушивание открытой раны",
+            "uz": "Ochiq jarohatni tikish"
+          },
+          "price": 560000
+        },
+        {
+          "id": "service173919207717012",
+          "name": {
+            "ru": "Вскрытие фурункула",
+            "uz": "Qaynoq ochish"
+          },
+          "price": 360000
+        },
+        {
+          "id": "service173919207717013",
+          "name": {
+            "ru": "Вскрытие карбункула",
+            "uz": "Karbunkul ochilishi"
+          },
+          "price": 500000
+        },
+        {
+          "id": "service173919207717014",
+          "name": {
+            "ru": "Вскрытие и дренирование флегмоны (абсцесса)",
+            "uz": "Flegmona (xo'ppoz)ni ochish va drenajlash"
+          },
+          "price": 560000
+        },
+        {
+          "id": "service173919207717015",
+          "name": {
+            "ru": "Вскрытие гидраденита",
+            "uz": "Hidradenitni ochish"
+          },
+          "price": 400000
+        },
+        {
+          "id": "service173919207717016",
+          "name": {
+            "ru": "Вскрытие инфильтрата кожи и подкожно - жировой клетчатки Парапроктит",
+            "uz": "Teri va teri osti yog 'infiltratining ochilishi Paraproktit"
+          },
+          "price": 560000
+        },
+        {
+          "id": "service173919207717017",
+          "name": {
+            "ru": "Удаление ногтевых пластинок",
+            "uz": "Tirnoq plitalarini olib tashlash"
+          },
+          "price": 400000
+        },
+        {
+          "id": "service173919207717018",
+          "name": {
+            "ru": "Вросший ноготь. Паронихий",
+            "uz": "Oyoq tirnog'ining o'sishi. Paronixiya"
+          },
+          "price": 400000
+        },
+        {
+          "id": "service173919207717019",
+          "name": {
+            "ru": "Иссечение рубцов",
+            "uz": "Chandiqni kesish"
+          },
+          "price": 620000
+        },
+        {
+          "id": "service173919207717020",
+          "name": {
+            "ru": "Удаление мозолей бородавок",
+            "uz": "Makkajo'xori va siğillarni olib tashlash"
+          },
+          "price": 560000
+        },
+        {
+          "id": "service173919207717021",
+          "name": {
+            "ru": "Удаление атером",
+            "uz": "Ateromalarni olib tashlash"
+          },
+          "price": 700000
+        },
+        {
+          "id": "service173919207717022",
+          "name": {
+            "ru": "Удаление липом размерами до 5см",
+            "uz": "5 sm gacha bo'lgan lipomalarni olib tashlash"
+          },
+          "price": 700000
+        },
+        {
+          "id": "service173919207717023",
+          "name": {
+            "ru": "Удаление доброкачественных новообразований кожи",
+            "uz": "Yaxshi teri o'smalarini olib tashlash"
+          },
+          "price": 780000
+        },
+        {
+          "id": "service173919207717024",
+          "name": {
+            "ru": "Иссечение эпителиального копчикового хода",
+            "uz": "Koksikulyar epiteliy yo'lini kesish"
+          },
+          "price": 2400000
+        },
+        {
+          "id": "service173919207717025",
+          "name": {
+            "ru": "Удаление липом размером более 5 см с медикаментами",
+            "uz": "5 sm dan katta lipomalarni dori vositalari bilan olib tashlash"
+          },
+          "price": 2800000
+        },
+        {
+          "id": "service173919207717026",
+          "name": {
+            "ru": "Перевязки чистых ран",
+            "uz": "Toza yaralarni bog'lash"
+          },
+          "price": 120000
+        },
+        {
+          "id": "service173919207717027",
+          "name": {
+            "ru": "Перевязки гнойных ран",
+            "uz": "Yiringli yaralarni bog'lash"
+          },
+          "price": 180000
+        },
+        {
+          "id": "service173919207717028",
+          "name": {
+            "ru": "Пункция мягких тканей и суствов",
+            "uz": "Yumshoq to'qimalar va bo'g'imlarning ponksiyoni"
+          },
+          "price": 340000
+        },
+        {
+          "id": "service17391922470850",
+          "name": {
+            "ru": "Вирус папилломы HPV 16,31,33,35,52,58",
+            "uz": "Odam papillomavirusi HPV 16,31,33,35,52,58"
+          },
+          "price": 300000
+        },
+        {
+          "id": "service17391922470851",
+          "name": {
+            "ru": "Вирус папилломы HPV 56",
+            "uz": "Inson papillomavirusi HPV 56"
+          },
+          "price": 300000
+        },
+        {
+          "id": "service17391922470852",
+          "name": {
+            "ru": "Вирус папилломы HPV 18,39,45,59",
+            "uz": "Inson papillomavirusi HPV 18,39,45,59"
+          },
+          "price": 300000
+        },
+        {
+          "id": "service17391922470853",
+          "name": {
+            "ru": "Вирус папилломы HPV 6,11",
+            "uz": "Inson papillomavirusi HPV 6.11"
+          },
+          "price": 300000
+        },
+        {
+          "id": "service17391922470854",
+          "name": {
+            "ru": "Вирус папилломы HPV 51",
+            "uz": "Inson papillomavirusi HPV 51"
+          },
+          "price": 300000
+        },
+        {
+          "id": "service17391922470855",
+          "name": {
+            "ru": "Вирус папилломы HPV 68",
+            "uz": "Inson papillomavirusi HPV 68"
+          },
+          "price": 300000
+        },
+        {
+          "id": "service17391928390580",
+          "name": {
+            "ru": "Кровь на хламидии Ig G",
+            "uz": "Chlamydia Ig G uchun qon"
+          },
+          "price": 110000
+        },
+        {
+          "id": "service17391928390581",
+          "name": {
+            "ru": "Кровь на хламидии Ig M",
+            "uz": "Chlamydia Ig M uchun qon"
+          },
+          "price": 110000
+        },
+        {
+          "id": "service17391928390582",
+          "name": {
+            "ru": "Кровь на хламидии Ig A",
+            "uz": "Xlamidiya Ig A uchun qon"
+          },
+          "price": 110000
+        },
+        {
+          "id": "service17391928390583",
+          "name": {
+            "ru": "Кровь на хламидии Ig G+M",
+            "uz": "Chlamydia Ig G+M uchun qon"
+          },
+          "price": 220000
+        },
+        {
+          "id": "service17391928390584",
+          "name": {
+            "ru": "Кровь на хламидии Ig G+M+A",
+            "uz": "Chlamydia Ig G+M+A uchun qon"
+          },
+          "price": 330000
+        },
+        {
+          "id": "service17391928390585",
+          "name": {
+            "ru": "Кровь на уреаплазму Ig G",
+            "uz": "Ureaplasma Ig G uchun qon"
+          },
+          "price": 110000
+        },
+        {
+          "id": "service17391928390586",
+          "name": {
+            "ru": "Кровь на уреаплазму Ig M",
+            "uz": "Ureaplasma Ig M uchun qon"
+          },
+          "price": 110000
+        },
+        {
+          "id": "service17391928390587",
+          "name": {
+            "ru": "Кровь на уреаплазму Ig A",
+            "uz": "Ureaplasma Ig A uchun qon"
+          },
+          "price": 110000
+        },
+        {
+          "id": "service17391928390588",
+          "name": {
+            "ru": "Кровь на уреаплазму Ig G+M",
+            "uz": "Ureaplasma Ig G+M uchun qon"
+          },
+          "price": 220000
+        },
+        {
+          "id": "service17391928390589",
+          "name": {
+            "ru": "Кровь на уреаплазму Ig G+M+A",
+            "uz": "Ureaplasma uchun qon Ig G+M+A"
+          },
+          "price": 330000
+        },
+        {
+          "id": "service173919283905810",
+          "name": {
+            "ru": "Кровь на микоплазму Ig M",
+            "uz": "Mikoplazma Ig M uchun qon"
+          },
+          "price": 110000
+        },
+        {
+          "id": "service173919283905811",
+          "name": {
+            "ru": "Кровь на микоплазму Ig G",
+            "uz": "Mikoplazma Ig G uchun qon"
+          },
+          "price": 110000
+        },
+        {
+          "id": "service173919283905812",
+          "name": {
+            "ru": "Кровь на микоплазму Ig A",
+            "uz": "Mikoplazma Ig A uchun qon"
+          },
+          "price": 110000
+        },
+        {
+          "id": "service173919283905813",
+          "name": {
+            "ru": "Кровь на микоплазму Ig G+M",
+            "uz": "Mikoplazma Ig G+M uchun qon"
+          },
+          "price": 220000
+        },
+        {
+          "id": "service173919283905814",
+          "name": {
+            "ru": "Кровь на микоплазму Ig G+M+A",
+            "uz": "Mikoplazma uchun qon Ig G+M+A"
+          },
+          "price": 330000
+        },
+        {
+          "id": "service173919283905815",
+          "name": {
+            "ru": "Кровь на токсоплазму Ig G",
+            "uz": "Toksoplazma Ig G uchun qon"
+          },
+          "price": 110000
+        },
+        {
+          "id": "service173919283905816",
+          "name": {
+            "ru": "Кровь на токсоплазму Ig M",
+            "uz": "Toksoplazma Ig M uchun qon"
+          },
+          "price": 110000
+        },
+        {
+          "id": "service173919283905817",
+          "name": {
+            "ru": "Кровь на токсоплазму Ig G+M",
+            "uz": "Toksoplazma uchun qon Ig G+M"
+          },
+          "price": 220000
+        },
+        {
+          "id": "service173919283905818",
+          "name": {
+            "ru": "Кровь на цитомегаловирус Ig G",
+            "uz": "Sitomegalovirus Ig G uchun qon"
+          },
+          "price": 110000
+        },
+        {
+          "id": "service173919283905819",
+          "name": {
+            "ru": "Кровь на цитомегаловирус Ig M",
+            "uz": "Sitomegalovirus Ig M uchun qon"
+          },
+          "price": 110000
+        },
+        {
+          "id": "service173919283905820",
+          "name": {
+            "ru": "Кровь на цитомегаловирус Ig G+M",
+            "uz": "Sitomegalovirus Ig G+M uchun qon"
+          },
+          "price": 220000
+        },
+        {
+          "id": "service173919283905821",
+          "name": {
+            "ru": "Вирус простого герпеса Ig G",
+            "uz": "Herpes simplex virusi Ig G"
+          },
+          "price": 110000
+        },
+        {
+          "id": "service173919283905822",
+          "name": {
+            "ru": "Вирус простого герпеса Ig M",
+            "uz": "Herpes simplex virusi Ig M"
+          },
+          "price": 110000
+        },
+        {
+          "id": "service173919283905823",
+          "name": {
+            "ru": "Вирус простого герпеса Ig G+M",
+            "uz": "Herpes simplex virusi Ig G+M"
+          },
+          "price": 220000
+        },
+        {
+          "id": "service173919283905824",
+          "name": {
+            "ru": "Rubella Ig G",
+            "uz": "Qizilcha Ig G"
+          },
+          "price": 110000
+        },
+        {
+          "id": "service173919283905825",
+          "name": {
+            "ru": "Кровь на H.Pilory Ig G",
+            "uz": "H.Pilory Ig G uchun qon"
+          },
+          "price": 200000
+        },
+        {
+          "id": "service173919283905826",
+          "name": {
+            "ru": "Кровь на H.Pilory Ig G+M",
+            "uz": "H.Pilory Ig G+M uchun qon"
+          },
+          "price": 400000
+        },
+        {
+          "id": "service173919283905827",
+          "name": {
+            "ru": "Вирус Эпштейн - Барр Ig G",
+            "uz": "Epstein - Barr virusi Ig G"
+          },
+          "price": 200000
+        },
+        {
+          "id": "service173919283905828",
+          "name": {
+            "ru": "Вирус Эпштейн - Барр Ig G+M",
+            "uz": "Epstein - Barr virusi Ig G+M"
+          },
+          "price": 400000
+        },
+        {
+          "id": "service173919283905829",
+          "name": {
+            "ru": "Bordetella pertussis IgG",
+            "uz": "Bordetella pertussis IgG"
+          },
+          "price": 120000
+        },
+        {
+          "id": "service173919283905830",
+          "name": {
+            "ru": "УЗИ фолликулометрия",
+            "uz": "UZIli follikulometriya"
+          },
+          "price": 310000
+        },
+        {
+          "id": "service173919283905831",
+          "name": {
+            "ru": "УЗИ фолликулометрия 2 (т/в т/а)",
+            "uz": "UZIli follikulometriya 2 (t/v t/a) 75 000 so‘m"
+          },
+          "price": 75000
+        },
+        {
+          "id": "service173919283905832",
+          "name": {
+            "ru": "УЗИ фолликулометрия дополнительная",
+            "uz": "UZIli follikulometriya qo'shimcha"
+          },
+          "price": 75000
+        },
+        {
+          "id": "service173919283905833",
+          "name": {
+            "ru": "УЗИ фолликулометрия 3 (т/в т/а)",
+            "uz": "UZIli follikulometriya 3 (t/v t/a)"
+          },
+          "price": 75000
+        },
+        {
+          "id": "service173919283905834",
+          "name": {
+            "ru": "Введение ВМС без ВМС",
+            "uz": "IUDsiz spiral qo'yish"
+          },
+          "price": 250000
+        },
+        {
+          "id": "service173919283905835",
+          "name": {
+            "ru": "Введение ВМС Мирена",
+            "uz": "Mirena IUD qo'yish"
+          },
+          "price": 300000
+        },
+        {
+          "id": "service173919283905836",
+          "name": {
+            "ru": "Удаление ВМС простое",
+            "uz": "Oddiy spiral olib tashlash"
+          },
+          "price": 250000
+        },
+        {
+          "id": "service173919283905837",
+          "name": {
+            "ru": "Лимфотропная терапия",
+            "uz": "Limfotrop terapiya"
+          },
+          "price": 250000
+        },
+        {
+          "id": "service173919283905838",
+          "name": {
+            "ru": "Удаление ВМС осложненное",
+            "uz": "Murakkab spiral olib tashlash"
+          },
+          "price": 400000
+        },
+        {
+          "id": "service173919283905839",
+          "name": {
+            "ru": "Удаление об.Nabotii до 1 шт",
+            "uz": "Nabotiyni olib tashlash 1 donagacha"
+          },
+          "price": 60000
+        },
+        {
+          "id": "service173919283905840",
+          "name": {
+            "ru": "Коагуляция эктопии",
+            "uz": "Ektopiyaning koagulyatsiyasi"
+          },
+          "price": 1500000
+        },
+        {
+          "id": "service173919283905841",
+          "name": {
+            "ru": "Коагуляция папиллом",
+            "uz": "Papillomalarning koagulyatsiyasi"
+          },
+          "price": 25000
+        },
+        {
+          "id": "service173919283905842",
+          "name": {
+            "ru": "Удаление об.Nabotii до 2 шт",
+            "uz": "Nabotiyni olib tashlash 2 donagacha"
+          },
+          "price": 100000
+        },
+        {
+          "id": "service173919283905843",
+          "name": {
+            "ru": "Прием после коагуляции",
+            "uz": "Koagulyatsiyadan keyin qabul qilish"
+          },
+          "price": 150000
+        },
+        {
+          "id": "service173919283905844",
+          "name": {
+            "ru": "Удаление об.Nabotii до 3 шт",
+            "uz": "Nabotiyni olib tashlash 3 donagacha"
+          },
+          "price": 250000
+        },
+        {
+          "id": "service173919283905845",
+          "name": {
+            "ru": "Удаление полипа (коагуляция ложа) в зависимости от локализации и количества",
+            "uz": "Polipni olib tashlash (to'shak koagulyatsiyasi) joylashishi va miqdoriga qarab"
+          },
+          "price": 2000000
+        },
+        {
+          "id": "service173919283905846",
+          "name": {
+            "ru": "Кольпоскопия",
+            "uz": "Kolposkopiya"
+          },
+          "price": 250000
+        },
+        {
+          "id": "service173919283905847",
+          "name": {
+            "ru": "РАР - мазок",
+            "uz": "RAP smear"
+          },
+          "price": 220000
+        },
+        {
+          "id": "service173919283905848",
+          "name": {
+            "ru": "Бактериологический посев мочи",
+            "uz": "Bakteriologik siydik madaniyati"
+          },
+          "price": 220000
+        },
+        {
+          "id": "service173919283905849",
+          "name": {
+            "ru": "Бактериологический посев выделений",
+            "uz": "Chiqindilarni bakteriologik ekish"
+          },
+          "price": 220000
+        },
+        {
+          "id": "service173919283905850",
+          "name": {
+            "ru": "Ultra Femme 360",
+            "uz": "Ultra Femme 360"
+          },
+          "price": 1200000
+        },
+        {
+          "id": "service173919283905851",
+          "name": {
+            "ru": "Инсеменация с реактивом",
+            "uz": "Reaktiv bilan urug'lantirish"
+          },
+          "price": 3500000
+        },
+        {
+          "id": "service173919283905852",
+          "name": {
+            "ru": "Инсеменация",
+            "uz": "Urug'lantirish"
+          },
+          "price": 1500000
+        },
+        {
+          "id": "service173919283905853",
+          "name": {
+            "ru": "Проба_Шуварского",
+            "uz": "Shuvarskiy namunasi"
+          },
+          "price": 150000
+        },
+        {
+          "id": "service173919283905854",
+          "name": {
+            "ru": "Эксцизия шейки матки",
+            "uz": "Bachadon bo'yni kesish"
+          },
+          "price": 3500000
+        },
+        {
+          "id": "service173919283905855",
+          "name": {
+            "ru": "Конизация шейки матки",
+            "uz": "Bachadon bo'yni konizatsiyasi"
+          },
+          "price": 4000000
+        },
+        {
+          "id": "service173919283905856",
+          "name": {
+            "ru": "Гистологический анализ",
+            "uz": "Gistologik tahlil"
+          },
+          "price": 300000
+        },
+        {
+          "id": "service173919283905857",
+          "name": {
+            "ru": "УЗИ беременность до 11 недель",
+            "uz": "11 haftagacha UZIli homiladorlik"
+          },
+          "price": 310000
+        },
+        {
+          "id": "service173919283905858",
+          "name": {
+            "ru": "УЗИ беременность с 11 - 40 недель",
+            "uz": "11 - 40 haftalik UZIli homiladorlik"
+          },
+          "price": 380000
+        },
+        {
+          "id": "service173919283905859",
+          "name": {
+            "ru": "УЗИ беременность с 11 - 40 недель (многоплодная)",
+            "uz": "11 - 40 haftalik UZIli homiladorlik (ko'p martalik)"
+          },
+          "price": 750000
+        },
+        {
+          "id": "service173919283905860",
+          "name": {
+            "ru": "УЗИ беременность с 20 - 40 недель с допплерографией",
+            "uz": "20 - 40 haftalik UZIli homiladorlik Dopplerografiya bilan"
+          },
+          "price": 505000
+        },
+        {
+          "id": "service173919283905861",
+          "name": {
+            "ru": "УЗИ беременность с 20 - 40 недель с допплерографией (многоплодная)",
+            "uz": "20 - 40 haftalik UZIli homiladorlik Dopplerografiya bilan (ko'p homila)"
+          },
+          "price": 835000
+        },
+        {
+          "id": "service173919283905862",
+          "name": {
+            "ru": "УЗИ вилочковой железы",
+            "uz": "Timus UZI tekshiruvi"
+          },
+          "price": 220000
+        },
+        {
+          "id": "service173919283905863",
+          "name": {
+            "ru": "УЗИ молочных желез",
+            "uz": "Sut bezlari UZI tekshiruvi"
+          },
+          "price": 310000
+        },
+        {
+          "id": "service173919283905864",
+          "name": {
+            "ru": "УЗИ мочевого пузыря",
+            "uz": "Quviq UZI tekshiruvi"
+          },
+          "price": 155000
+        },
+        {
+          "id": "service173919283905865",
+          "name": {
+            "ru": "УЗИ мягких тканей",
+            "uz": "Yumshoq to'qimalarning UZI tekshiruvi"
+          },
+          "price": 55000
+        },
+        {
+          "id": "service173919283905866",
+          "name": {
+            "ru": "УЗИ органов брюшной полости",
+            "uz": "Qorin a'zolarini UZI tekshiruvi"
+          },
+          "price": 310000
+        },
+        {
+          "id": "service173919283905867",
+          "name": {
+            "ru": "УЗИ органов зрения",
+            "uz": "Ko'rish organlarini UZI tekshiruvi"
+          },
+          "price": 255000
+        },
+        {
+          "id": "service173919283905868",
+          "name": {
+            "ru": "УЗИ органов малого таза (трансвагинально)",
+            "uz": "Tos a'zolarini UZI tekshiruvi (transvaginal)"
+          },
+          "price": 310000
+        },
+        {
+          "id": "service173919283905869",
+          "name": {
+            "ru": "УЗИ органов малого таза (трансабдоминально)",
+            "uz": "Tos a'zolarini UZI tekshiruvi (transabdominal)"
+          },
+          "price": 230000
+        },
+        {
+          "id": "service173919283905870",
+          "name": {
+            "ru": "УЗИ предстательной железы (трансабдоминально)",
+            "uz": "Prostata bezining UZI tekshiruvi (transabdominal)"
+          },
+          "price": 155000
+        },
+        {
+          "id": "service173919283905871",
+          "name": {
+            "ru": "УЗИ органов мошонки",
+            "uz": "Skrotum a'zolarini UZI tekshiruvi"
+          },
+          "price": 215000
+        },
+        {
+          "id": "service173919283905872",
+          "name": {
+            "ru": "УЗИ предстательной железы (трансректально)",
+            "uz": "Prostata bezining UZI tekshiruvi (transrektal)"
+          },
+          "price": 255000
+        },
+        {
+          "id": "service173919283905873",
+          "name": {
+            "ru": "УЗИ почек",
+            "uz": "Buyrak UZI tekshiruvi"
+          },
+          "price": 155000
+        },
+        {
+          "id": "service173919283905874",
+          "name": {
+            "ru": "УЗИ цервикометрия",
+            "uz": "UZIli servikometriya"
+          },
+          "price": 125000
+        },
+        {
+          "id": "service173919283905875",
+          "name": {
+            "ru": "УЗИ щитовидной железы",
+            "uz": "Qalqonsimon bez UZI tekshiruvi"
+          },
+          "price": 255000
+        },
+        {
+          "id": "service173919283905876",
+          "name": {
+            "ru": "УЗИ Печень,желчный пузырь,поджелудочная железа,селезенка - до еды+после еды",
+            "uz": "Jigar, o't pufagi, oshqozon osti bezi, taloq UZI - ovqatdan oldin + ovqatdan keyin"
+          },
+          "price": 345000
+        },
+        {
+          "id": "service173919283905877",
+          "name": {
+            "ru": "УЗИ нейросонография",
+            "uz": "UZIli neyrosonografiya"
+          },
+          "price": 290000
+        },
+        {
+          "id": "service173919283905878",
+          "name": {
+            "ru": "Допплерография артерий верхних конечностей",
+            "uz": "Yuqori ekstremita arteriyalarining dopplerografiyasi"
+          },
+          "price": 505000
+        },
+        {
+          "id": "service173919283905879",
+          "name": {
+            "ru": "Допплерография вен верхних конечностей",
+            "uz": "Yuqori ekstremita venalarining dopplerografiyasi"
+          },
+          "price": 505000
+        },
+        {
+          "id": "service173919283905880",
+          "name": {
+            "ru": "Допплерография артерий нижних конечностей",
+            "uz": "Pastki ekstremita arteriyalarining dopplerografiyasi"
+          },
+          "price": 505000
+        },
+        {
+          "id": "service173919283905881",
+          "name": {
+            "ru": "Допплерография вен нижних конечностей",
+            "uz": "Pastki ekstremita venalarining dopplerografiyasi"
+          },
+          "price": 505000
+        },
+        {
+          "id": "service173919283905882",
+          "name": {
+            "ru": "Допплерография брахиоцефалтных сосудов",
+            "uz": "Brakiyosefal qon tomirlarining dopplerografiyasi"
+          },
+          "price": 505000
+        },
+        {
+          "id": "service173919283905883",
+          "name": {
+            "ru": "Допплерография сосудов брюшной полости и печени",
+            "uz": "Qorin bo'shlig'i va jigar tomirlarining dopplerografiyasi"
+          },
+          "price": 585000
+        },
+        {
+          "id": "service173919283905884",
+          "name": {
+            "ru": "Допплерография сосудов органов мошонки",
+            "uz": "Skrotum a'zolarining tomirlarini dopplerografiyasi"
+          },
+          "price": 505000
+        },
+        {
+          "id": "service173919283905885",
+          "name": {
+            "ru": "Допплерография органов зрения",
+            "uz": "Ko'rish organlarining dopplerografiyasi"
+          },
+          "price": 505000
+        },
+        {
+          "id": "service173919283905886",
+          "name": {
+            "ru": "Допплерография сосудов полового члена (функциональная)",
+            "uz": "Jinsiy olat tomirlarining dopplerografiyasi (funktsional)"
+          },
+          "price": 480000
+        },
+        {
+          "id": "service173919283905887",
+          "name": {
+            "ru": "Допплерография сосудов почек",
+            "uz": "Buyrak tomirlarining dopplerografiyasi"
+          },
+          "price": 505000
+        },
+        {
+          "id": "service173919283905888",
+          "name": {
+            "ru": "Допплерография мягких тканей",
+            "uz": "Yumshoq to'qimalarning dopplerografiyasi"
+          },
+          "price": 335000
+        },
+        {
+          "id": "service173919283905889",
+          "name": {
+            "ru": "Малый таз(трансвагинально) + допплерография",
+            "uz": "Tos suyagi (transvaginal) + Doppler UZI"
+          },
+          "price": 505000
+        },
+        {
+          "id": "service173919283905890",
+          "name": {
+            "ru": "Малый таз(трансвагинально) + соноэластография (strain)",
+            "uz": "Tos suyagi (transvaginal) + sonoelastografiya (shtamm)"
+          },
+          "price": 585000
+        },
+        {
+          "id": "service173919283905891",
+          "name": {
+            "ru": "Допплерография сосудов щитовидной железы",
+            "uz": "Qalqonsimon bez tomirlarining dopplerografiyasi"
+          },
+          "price": 480000
+        },
+        {
+          "id": "service173919283905892",
+          "name": {
+            "ru": "Допплерография транскраниальная",
+            "uz": "Dopplerografiya transkranial"
+          },
+          "price": 420000
+        },
+        {
+          "id": "service173919283905893",
+          "name": {
+            "ru": "Эхо КГ плода (18 - 24(не более 30 недель)",
+            "uz": "Xomilaning EchoCG (18 - 24 (30 haftadan ko'p bo'lmagan))"
+          },
+          "price": 505000
+        },
+        {
+          "id": "service173919283905894",
+          "name": {
+            "ru": "ЭхоКС+Допплерография",
+            "uz": "EchoCS+Dopplerografiya"
+          },
+          "price": 500000
+        },
+        {
+          "id": "service173919283905895",
+          "name": {
+            "ru": "Беременность + 4D плода",
+            "uz": "Homiladorlik + 4D homila"
+          },
+          "price": 570000
+        },
+        {
+          "id": "service173919283905896",
+          "name": {
+            "ru": "Соноэластография мягких тканей (strain)",
+            "uz": "Yumshoq to'qimalarning sonoelastografiyasi (shtamm)"
+          },
+          "price": 480000
+        },
+        {
+          "id": "service173919283905897",
+          "name": {
+            "ru": "Соноэластография молочных желез (strain)",
+            "uz": "Sut bezlari sonoelastografiyasi (shtamm)"
+          },
+          "price": 505000
+        },
+        {
+          "id": "service173919283905898",
+          "name": {
+            "ru": "Соноэластография органов малого таза (strain) - Трансвагинально (если + допплерография)",
+            "uz": "Tos a'zolarining sonoelastografiyasi (shtamm) - Transvaginal (agar + Dopplerografiya)"
+          },
+          "price": 585000
+        },
+        {
+          "id": "service173919283905899",
+          "name": {
+            "ru": "Соноэластография органов мошонки (strain)",
+            "uz": "Skrotum a'zolarining sonoelastografiyasi (shtamm)"
+          },
+          "price": 85000
+        },
+        {
+          "id": "service1739192839058100",
+          "name": {
+            "ru": "Соноэластография печени (share - wave)",
+            "uz": "Jigarning sonoelastografiyasi (shahar - to'lqin)"
+          },
+          "price": 505000
+        },
+        {
+          "id": "service1739192839058101",
+          "name": {
+            "ru": "Соноэластография почек (share - wave)",
+            "uz": "Buyrak sonoelastografiyasi (shahar - to'lqin)"
+          },
+          "price": 505000
+        },
+        {
+          "id": "service1739192839058102",
+          "name": {
+            "ru": "Соноэластография щитовидной железы (strain)",
+            "uz": "Qalqonsimon bezning sonoelastografiyasi (shtamm)"
+          },
+          "price": 505000
+        },
+        {
+          "id": "service1739192839058103",
+          "name": {
+            "ru": "ЭКГ без расшифровки",
+            "uz": "Dekodsiz EKG"
+          },
+          "price": 100000
+        },
+        {
+          "id": "service1739192839058104",
+          "name": {
+            "ru": "ЭКГ с расшифровкой",
+            "uz": "EKG dekodlash bilan"
+          },
+          "price": 120000
+        },
+        {
+          "id": "service1739192839058105",
+          "name": {
+            "ru": "Холтер мониторирование",
+            "uz": "Xolter monitoringi"
+          },
+          "price": 350000
+        }
+      ],
+      "id": "clinic1739191583190"
+    },
+    {
+      "name": "Ayol Care",
+      "district": " Yashnabod tumani / Яшнабадский район",
+      "address": "st. Maxtumquli, 15, Moljal: Ashxobod bog'i ro'parasida.",
+      "location": {
+        "latitude": 41.307309,
+        "longitude": 69.303322
+      },
+      "phone": "+998 (55) 517- 04-57",
+      "website": "https://ayolcare.uz/uz/",
+      "workingHours": "08:00-20:00 Yakshanba / Воскресенье - Dam olish / Отдых",
+      "services": [
+        {
+          "id": "service17391950508141",
+          "name": {
+            "ru": "Очищение спермы для других специалистов",
+            "uz": "Boshqa mutaxassislar uchun sperma tozalash"
+          },
+          "price": 1350000
+        },
+        {
+          "id": "service17391950508142",
+          "name": {
+            "ru": "Очищение спермы",
+            "uz": "Spermatozoidlarni tozalash"
+          },
+          "price": 1000000
+        },
+        {
+          "id": "service17391950508143",
+          "name": {
+            "ru": "Внутриматочная инсеменация",
+            "uz": "Bachadon ichidagi urug'lantirish"
+          },
+          "price": 4700000
+        },
+        {
+          "id": "service17391950508144",
+          "name": {
+            "ru": "Снятие ВМС",
+            "uz": "IUDni olib tashlash"
+          },
+          "price": 560000
+        },
+        {
+          "id": "service17391950508145",
+          "name": {
+            "ru": "Вставление вмс (без учета вмс)",
+            "uz": "IUD qo'yish (IUDdan tashqari)"
+          },
+          "price": 670000
+        },
+        {
+          "id": "service17391950508146",
+          "name": {
+            "ru": "Санация влагалища",
+            "uz": "Vaginal sanitariya"
+          },
+          "price": 280000
+        },
+        {
+          "id": "service17391950508147",
+          "name": {
+            "ru": "Взятие биопсии (гинекология) амбулаторно",
+            "uz": "Biopsiya olish (ginekologiya) ambulatoriya"
+          },
+          "price": 800000
+        },
+        {
+          "id": "service17391950508148",
+          "name": {
+            "ru": "Удаление кондилом нпо амбулаторно 1 шт",
+            "uz": "Kondilomalarni olib tashlash npo ambulator 1 dona"
+          },
+          "price": 390000
+        },
+        {
+          "id": "service17391950508149",
+          "name": {
+            "ru": "Взятие мазка",
+            "uz": "Smear olish"
+          },
+          "price": 8000
+        },
+        {
+          "id": "service173919505081410",
+          "name": {
+            "ru": "КТГ исследование+ интерпретация",
+            "uz": "CTG tekshiruvi + tarjimasi"
+          },
+          "price": 335000
+        },
+        {
+          "id": "service173919505081411",
+          "name": {
+            "ru": "Снятие швов",
+            "uz": "Choklarni yechish"
+          },
+          "price": 80000
+        },
+        {
+          "id": "service173919505081412",
+          "name": {
+            "ru": "Перевязка после операционной раны",
+            "uz": "Jarrohlik jarohatidan keyin kiyinish"
+          },
+          "price": 80000
+        },
+        {
+          "id": "service173919505081413",
+          "name": {
+            "ru": "ПРП (без учета пробирки ПРП)",
+            "uz": "PRP (PRP probirkasidan tashqari)"
+          },
+          "price": 335000
+        },
+        {
+          "id": "service173919505081414",
+          "name": {
+            "ru": "Магнитная стимуляция нервно - мышечного аппарата тазового дна",
+            "uz": "Tos bo‘shlig‘i nerv - mushak apparatini magnit stimulyatsiyasi 390 000 so‘m"
+          },
+          "price": 390000
+        },
+        {
+          "id": "service173919505081415",
+          "name": {
+            "ru": "Вставление внтуриматочного кольца Пессарий (без учета кольца Пессарий)",
+            "uz": "Intrauterin halqani o'rnatish (pesari halqasidan tashqari)"
+          },
+          "price": 450000
+        },
+        {
+          "id": "service173919505081416",
+          "name": {
+            "ru": "Раздельное диагностическое выскабливание цервикального канала и полости матки",
+            "uz": "Bachadon bo'yni kanali va bachadon bo'shlig'ining alohida diagnostik kuretaji"
+          },
+          "price": 2800000
+        },
+        {
+          "id": "service173919505081417",
+          "name": {
+            "ru": "Удаление кисты бартолиниевой железы",
+            "uz": "Bartolin bezi kistasini olib tashlash"
+          },
+          "price": 4500000
+        },
+        {
+          "id": "service173919505081418",
+          "name": {
+            "ru": "Конизация шейки матки",
+            "uz": "Bachadon bo'yni konizatsiyasi"
+          },
+          "price": 2800000
+        },
+        {
+          "id": "service173919505081419",
+          "name": {
+            "ru": "Удаление ВМС с врастанием",
+            "uz": "O'sish bilan IUDni olib tashlash"
+          },
+          "price": 3600000
+        },
+        {
+          "id": "service173919505081420",
+          "name": {
+            "ru": "Откручивание рождающегося миоматозного узла через влагалище",
+            "uz": "Rivojlanayotgan miomatoz tugunni qin orqali ochish"
+          },
+          "price": 5400000
+        },
+        {
+          "id": "service173919505081421",
+          "name": {
+            "ru": "Диагностическое выскабливание при неразвивающейся беременности до 12 недель",
+            "uz": "12 haftagacha rivojlanmagan homiladorlikda diagnostik kuretaj"
+          },
+          "price": 3150000
+        },
+        {
+          "id": "service173919505081422",
+          "name": {
+            "ru": "Удаление полипов шейки матки",
+            "uz": "Bachadon bo'yni poliplarini olib tashlash"
+          },
+          "price": 3150000
+        },
+        {
+          "id": "service173919505081423",
+          "name": {
+            "ru": "Удаление наботовых кист",
+            "uz": "Nabotiya kistalarini olib tashlash"
+          },
+          "price": 1250000
+        },
+        {
+          "id": "service173919505081424",
+          "name": {
+            "ru": "Диагностическая гистероскопия ( с резектоскопом )",
+            "uz": "Diagnostik histeroskopiya (rezektoskop bilan)"
+          },
+          "price": 6700000
+        },
+        {
+          "id": "service173919505081425",
+          "name": {
+            "ru": "Гистероскопия перед эко(диагностика, skretching)",
+            "uz": "IVF oldidan histeroskopiya (diagnostika, chizma)"
+          },
+          "price": 9000000
+        },
+        {
+          "id": "service173919505081426",
+          "name": {
+            "ru": "Удаление полипов цервикального канала и полости матки",
+            "uz": "Bachadon bo'yni kanali va bachadon bo'shlig'i poliplarini olib tashlash"
+          },
+          "price": 8400000
+        },
+        {
+          "id": "service173919505081427",
+          "name": {
+            "ru": "Миомэктомия из полости матки",
+            "uz": "Bachadon bo'shlig'idan miyomektomiya"
+          },
+          "price": 14000000
+        },
+        {
+          "id": "service173919505081428",
+          "name": {
+            "ru": "Иссечение синехий 1 - 2 степени",
+            "uz": "1 - 2 darajali bitishmalarni kesish"
+          },
+          "price": 7000000
+        },
+        {
+          "id": "service173919505081429",
+          "name": {
+            "ru": "Иссечение синехий 3 - 4 степени(при синдроме ашермана)",
+            "uz": "3 - 4 darajali bitishmalarni kesish (Asherman sindromi bilan)"
+          },
+          "price": 14000000
+        },
+        {
+          "id": "service173919505081430",
+          "name": {
+            "ru": "Иссечение и удаление перегородки цервикального канала или полости матки",
+            "uz": "Bachadon bo'yni kanali yoki bachadon bo'shlig'i septumini kesish va olib tashlash"
+          },
+          "price": 7000000
+        },
+        {
+          "id": "service173919505081431",
+          "name": {
+            "ru": "Абляция/резекция эндометрия",
+            "uz": "Endometriyal ablasyon/rezeksiya"
+          },
+          "price": 12800000
+        },
+        {
+          "id": "service173919505081432",
+          "name": {
+            "ru": "Сакроспинальная фиксация при пролапсе гинеталий",
+            "uz": "Jinsiy a'zolarning prolapsasi uchun sakrospinal fiksatsiya"
+          },
+          "price": 9500000
+        },
+        {
+          "id": "service173919505081433",
+          "name": {
+            "ru": "Удаление кисты влагалища",
+            "uz": "Qin kistasini olib tashlash"
+          },
+          "price": 7000000
+        },
+        {
+          "id": "service173919505081434",
+          "name": {
+            "ru": "Вульвэктомия",
+            "uz": "Vulvektomiya"
+          },
+          "price": 21200000
+        },
+        {
+          "id": "service173919505081435",
+          "name": {
+            "ru": "Влагалищная экстирпация матки",
+            "uz": "Vaginal histerektomiya"
+          },
+          "price": 22900000
+        },
+        {
+          "id": "service173919505081436",
+          "name": {
+            "ru": "Пластика шейки матки по эммету",
+            "uz": "Emmetga ko'ra bachadon bo'yni plastik jarrohlik"
+          },
+          "price": 11700000
+        },
+        {
+          "id": "service173919505081437",
+          "name": {
+            "ru": "Ампутация шейки матки по штумдорфу",
+            "uz": "Shtumdorf bo'yicha bachadon bo'yni amputatsiyasi"
+          },
+          "price": 15000000
+        },
+        {
+          "id": "service173919505081438",
+          "name": {
+            "ru": "Коррекция недержания мочи tvt - o",
+            "uz": "Siydik chiqarishni to'g'irlash tvt - o"
+          },
+          "price": 12300000
+        },
+        {
+          "id": "service173919505081440",
+          "name": {
+            "ru": "Снятие ВМС",
+            "uz": "IUDni olib tashlash"
+          },
+          "price": 560000
+        },
+        {
+          "id": "service173919505081441",
+          "name": {
+            "ru": "Очищение спермы для других специалистов",
+            "uz": "Boshqa mutaxassislar uchun sperma tozalash"
+          },
+          "price": 1350000
+        },
+        {
+          "id": "service173919505081442",
+          "name": {
+            "ru": "Санация влагалища",
+            "uz": "Vaginal sanitariya"
+          },
+          "price": 280000
+        },
+        {
+          "id": "service173919505081443",
+          "name": {
+            "ru": "Внутриматочная инсеменация",
+            "uz": "Bachadon ichidagi urug'lantirish"
+          },
+          "price": 4700000
+        },
+        {
+          "id": "service173919505081444",
+          "name": {
+            "ru": "Вставление ВМС (без учета ВМС)",
+            "uz": "IUD qo'yish (IUDdan tashqari)"
+          },
+          "price": 670000
+        },
+        {
+          "id": "service173919505081445",
+          "name": {
+            "ru": "Взятие мазка",
+            "uz": "Smear olish"
+          },
+          "price": 80000
+        },
+        {
+          "id": "service173919505081446",
+          "name": {
+            "ru": "Внутриматочное введение лекарственного средства",
+            "uz": "Preparatni bachadonga yuborish"
+          },
+          "price": 560000
+        },
+        {
+          "id": "service173919505081447",
+          "name": {
+            "ru": "Вставление внтуриматочного кольца Пессарий (без учета кольца Пессарий)",
+            "uz": "Intrauterin halqani o'rnatish (pesari halqasidan tashqari)"
+          },
+          "price": 450000
+        },
+        {
+          "id": "service173919505081448",
+          "name": {
+            "ru": "Санация влагалища",
+            "uz": "Vaginal sanitariya"
+          },
+          "price": 280000
+        },
+        {
+          "id": "service173919505081449",
+          "name": {
+            "ru": "Взятия мазка",
+            "uz": "Smear olish"
+          },
+          "price": 80000
+        },
+        {
+          "id": "service173919505081450",
+          "name": {
+            "ru": "Фолликулометрия (трансвагинально)",
+            "uz": "Follikulometriya (transvaginal)"
+          },
+          "price": 200000
+        },
+        {
+          "id": "service173919505081451",
+          "name": {
+            "ru": "Внутриматочная инсеменация",
+            "uz": "Bachadon ichidagi urug'lantirish"
+          },
+          "price": 4700000
+        },
+        {
+          "id": "service173919505081452",
+          "name": {
+            "ru": "Фолликулометрия (абдоминально)",
+            "uz": "Follikulometriya (qorin bo'shlig'i)"
+          },
+          "price": 145000
+        },
+        {
+          "id": "service173919505081453",
+          "name": {
+            "ru": "Вставление ВМС (без учета ВМС)",
+            "uz": "IUD qo'yish (IUDdan tashqari)"
+          },
+          "price": 670000
+        },
+        {
+          "id": "service173919505081454",
+          "name": {
+            "ru": "Очищение спермы",
+            "uz": "Spermatozoidlarni tozalash"
+          },
+          "price": 1000000
+        },
+        {
+          "id": "service173919505081455",
+          "name": {
+            "ru": "Очищение спермы для других специалистов",
+            "uz": "Boshqa mutaxassislar uchun sperma tozalash"
+          },
+          "price": 1350000
+        },
+        {
+          "id": "service173919505081456",
+          "name": {
+            "ru": "Снятие ВМС",
+            "uz": "IUDni olib tashlash"
+          },
+          "price": 560000
+        },
+        {
+          "id": "service173919505081457",
+          "name": {
+            "ru": "Взятие биопсии",
+            "uz": "Biopsiya olish"
+          },
+          "price": 800000
+        },
+        {
+          "id": "service173919505081458",
+          "name": {
+            "ru": "Вставление внтуриматочного кольца Пессарий (без учета кольца Пессарий)",
+            "uz": "Intrauterin halqani o'rnatish (pesari halqasidan tashqari)"
+          },
+          "price": 450000
+        },
+        {
+          "id": "service173919505081460",
+          "name": {
+            "ru": "Альбумин Трансфузия 2",
+            "uz": "Albumin quyish"
+          },
+          "price": 600000
+        },
+        {
+          "id": "service173919505081461",
+          "name": {
+            "ru": "Внутренний Наркоз Амбулаторно до 1 часа",
+            "uz": "Ichki behushlik Ambulatoriya 1 soatgacha"
+          },
+          "price": 730000
+        },
+        {
+          "id": "service173919505081462",
+          "name": {
+            "ru": "Катетеризация Центральной Вены",
+            "uz": "Markaziy tomir kateterizatsiyasi"
+          },
+          "price": 1230000
+        },
+        {
+          "id": "service173919505081463",
+          "name": {
+            "ru": "Комбинированный наркоз с изофлюраном (до 1 часа)",
+            "uz": "Izofluran bilan kombinatsiyalangan behushlik (1 soatgacha)"
+          },
+          "price": 1900000
+        },
+        {
+          "id": "service173919505081464",
+          "name": {
+            "ru": "Комбинированный наркоз с изофлюраном (до 2 часа)",
+            "uz": "Izofluran bilan kombinatsiyalangan behushlik (2 soatgacha)"
+          },
+          "price": 2250000
+        },
+        {
+          "id": "service173919505081465",
+          "name": {
+            "ru": "Комбинированный наркоз с изофлюраном до 3 - х часов",
+            "uz": "3 soatgacha bo'lgan izofluran bilan kombinatsiyalangan behushlik"
+          },
+          "price": 2600000
+        },
+        {
+          "id": "service173919505081466",
+          "name": {
+            "ru": "Комбинированный наркоз с изофлюраном (до 4 часов)",
+            "uz": "Izofluran bilan kombinatsiyalangan behushlik (4 soatgacha)"
+          },
+          "price": 3400000
+        },
+        {
+          "id": "service173919505081467",
+          "name": {
+            "ru": "Комбинированный наркоз с изофлюраном до 5 часов",
+            "uz": "5 soatgacha izofluran bilan kombinatsiyalangan behushlik"
+          },
+          "price": 3700000
+        },
+        {
+          "id": "service173919505081468",
+          "name": {
+            "ru": "Комбинированный наркоз с изофлюраном до 6 часов",
+            "uz": "6 soatgacha izofluran bilan kombinatsiyalangan behushlik"
+          },
+          "price": 4300000
+        },
+        {
+          "id": "service173919505081469",
+          "name": {
+            "ru": "Комбинированный наркоз с эпидуральной анестезией",
+            "uz": "Epidural anesteziya bilan kombinatsiyalangan behushlik 3400 000 soʻm"
+          },
+          "price": 3400000
+        },
+        {
+          "id": "service173919505081470",
+          "name": {
+            "ru": "Премедикация",
+            "uz": "Premedikatsiya"
+          },
+          "price": 400000
+        },
+        {
+          "id": "service173919505081471",
+          "name": {
+            "ru": "Спинномозговая анестезия",
+            "uz": "Orqa miya behushligi"
+          },
+          "price": 1900000
+        },
+        {
+          "id": "service173919505081472",
+          "name": {
+            "ru": "Пробуждение до 2 часов",
+            "uz": "Soat 2 dan oldin uyg'onish"
+          },
+          "price": 500000
+        },
+        {
+          "id": "service173919505081473",
+          "name": {
+            "ru": "Эпидурально - спинномозговая анестезия",
+            "uz": "Epidural - orqa miya anesteziyasi"
+          },
+          "price": 2700000
+        },
+        {
+          "id": "service173919505081475",
+          "name": {
+            "ru": "Катетеризация мочевого пузыря",
+            "uz": "Quviqni kateterizatsiya qilish"
+          },
+          "price": 280000
+        },
+        {
+          "id": "service173919505081476",
+          "name": {
+            "ru": "Массаж простаты",
+            "uz": "Prostata massaji"
+          },
+          "price": 170000
+        },
+        {
+          "id": "service173919505081477",
+          "name": {
+            "ru": "Забор урологического мазка",
+            "uz": "Urologik surtma yig'ish"
+          },
+          "price": 80000
+        },
+        {
+          "id": "service173919505081478",
+          "name": {
+            "ru": "Замена цистомического дренажа",
+            "uz": "Sistotomiya drenajini almashtirish"
+          },
+          "price": 250000
+        },
+        {
+          "id": "service173919505081479",
+          "name": {
+            "ru": "Операция при варикоцелле",
+            "uz": "Varikosel operatsiyasi 5"
+          },
+          "price": 5000000
+        },
+        {
+          "id": "service173919505081480",
+          "name": {
+            "ru": "Операция при водянке яичка",
+            "uz": "Gidrosele jarrohligi"
+          },
+          "price": 5000000
+        },
+        {
+          "id": "service173919505081482",
+          "name": {
+            "ru": "Взятие биопсии",
+            "uz": "Biopsiya olish"
+          },
+          "price": 800000
+        },
+        {
+          "id": "service173919505081483",
+          "name": {
+            "ru": "Перевязка после операционной раны",
+            "uz": "Jarrohlik jarohatidan keyin kiyinish"
+          },
+          "price": 80000
+        },
+        {
+          "id": "service173919505081484",
+          "name": {
+            "ru": "Секторальная резекция молочной железы",
+            "uz": "Sut bezining sektoral rezektsiyasi"
+          },
+          "price": 9000000
+        },
+        {
+          "id": "service173919505081485",
+          "name": {
+            "ru": "Секторальная резекция с лимфодиссекцией",
+            "uz": "Limfa tugunlarini kesish bilan sektoral rezektsiya"
+          },
+          "price": 20600000
+        },
+        {
+          "id": "service173919505081486",
+          "name": {
+            "ru": "Пункция кисты",
+            "uz": "Kist ponksiyoni"
+          },
+          "price": 170000
+        },
+        {
+          "id": "service173919505081487",
+          "name": {
+            "ru": "Снятие швов",
+            "uz": "Choklarni yechish"
+          },
+          "price": 80000
+        },
+        {
+          "id": "service173919505081488",
+          "name": {
+            "ru": "Лечение образований на соске",
+            "uz": "Ko'krak qafasidagi shakllanishlarni davolash"
+          },
+          "price": 115000
+        },
+        {
+          "id": "service173919505081489",
+          "name": {
+            "ru": "Рассцеживание",
+            "uz": "Dekanatsiya"
+          },
+          "price": 115000
+        },
+        {
+          "id": "service173919505081490",
+          "name": {
+            "ru": "Радикальная мастэктомия",
+            "uz": "Radikal mastektomiya"
+          },
+          "price": 20600000
+        },
+        {
+          "id": "service173919505081491",
+          "name": {
+            "ru": "Биопсия под УЗИ контролем",
+            "uz": "UZI nazorati ostida biopsiya"
+          },
+          "price": 1100000
+        },
+        {
+          "id": "service173919505081493",
+          "name": {
+            "ru": "Прием проктолога",
+            "uz": "Proktolog qabuli"
+          },
+          "price": 335000
+        },
+        {
+          "id": "service173919505081494",
+          "name": {
+            "ru": "Геморроидэктомия",
+            "uz": "Gemorroydektomiya"
+          },
+          "price": 10100000
+        },
+        {
+          "id": "service173919505081495",
+          "name": {
+            "ru": "Иссечение полипа",
+            "uz": "Polipni kesish"
+          },
+          "price": 7300000
+        },
+        {
+          "id": "service173919505081496",
+          "name": {
+            "ru": "Иссечение более 2 - х полипов",
+            "uz": "2 dan ortiq poliplarni kesish"
+          },
+          "price": 8400000
+        },
+        {
+          "id": "service173919505081497",
+          "name": {
+            "ru": "Иссечение эпителиально - копчиковый ход",
+            "uz": "Epiteliy - koksigeal yo'lni kesish"
+          },
+          "price": 10100000
+        },
+        {
+          "id": "service173919505081498",
+          "name": {
+            "ru": "Иссечение трещины",
+            "uz": "Yoriqlarni kesish"
+          },
+          "price": 7300000
+        },
+        {
+          "id": "service173919505081499",
+          "name": {
+            "ru": "Иссечение свища прямой кишки",
+            "uz": "To'g'ri ichak oqmasini kesish"
+          },
+          "price": 11200000
+        },
+        {
+          "id": "service1739195050814101",
+          "name": {
+            "ru": "Задняя Кольпоперинеолеваторопластика",
+            "uz": "Orqa kolpoperineolevatorplastikasi"
+          },
+          "price": 5800000
+        },
+        {
+          "id": "service1739195050814102",
+          "name": {
+            "ru": "Пластика половых губ (лабиопластика)",
+            "uz": "Labioplastika (labioplastika)"
+          },
+          "price": 4700000
+        },
+        {
+          "id": "service1739195050814103",
+          "name": {
+            "ru": "Контурная пластика для закрытия зияющей половой щели(одна нить)",
+            "uz": "Jinsiy a'zoda bo'shliqni yopish uchun kontur plastik jarrohlik (bitta ip)"
+          },
+          "price": 11600000
+        },
+        {
+          "id": "service1739195050814104",
+          "name": {
+            "ru": "Биоревитализация интимной области",
+            "uz": "Intim zonani biorevitalizatsiyasi"
+          },
+          "price": 9300000
+        },
+        {
+          "id": "service1739195050814105",
+          "name": {
+            "ru": "Пластика передней и задней стенкой влагалища с репозицией мочевого пузыря и укреплением мышц заднего прохода",
+            "uz": "Quviqni o'zgartirish va anus mushaklarini mustahkamlash bilan qin old va orqa devorlarining plastik jarrohligi"
+          },
+          "price": 8400000
+        },
+        {
+          "id": "service1739195050814106",
+          "name": {
+            "ru": "Пластика передней и задней стенкой влагалища с репозицией мочевого пузыря, укрепление мышц заднего прохода и кардинальных связок",
+            "uz": "Quviqning joylashishini o'zgartirish, anus va yurak ligamentlari mushaklarini mustahkamlash bilan qin old va orqa devorlarining plastik jarrohlik amaliyoti"
+          },
+          "price": 9400000
+        },
+        {
+          "id": "service1739195050814107",
+          "name": {
+            "ru": "Интимный филлинг",
+            "uz": "Intim plomba"
+          },
+          "price": 9300000
+        },
+        {
+          "id": "service1739195050814108",
+          "name": {
+            "ru": "Пластика передней и задней стенкой влагалища с репозицией мочевого пузыря, укрепление мышц заднего прохода и кардинальных связок, ампутация шейки матки по Штумдорфу",
+            "uz": "Quviqning joylashishini o'zgartirish, anus va yurak ligamentlari mushaklarini mustahkamlash, Shtumdorf bo'yicha bachadon bo'yni amputatsiyasi bilan old va orqa vaginal devorlarning plastik jarrohligi"
+          },
+          "price": 10300000
+        },
+        {
+          "id": "service1739195050814109",
+          "name": {
+            "ru": "Пластика передней стенки влагалища с репозицией мочевого пузыря",
+            "uz": "Quviqni o'zgartirish bilan oldingi qin devori plastik jarrohlik"
+          },
+          "price": 6100000
+        },
+        {
+          "id": "service1739195050814110",
+          "name": {
+            "ru": "Коррекция клиторальной зоны",
+            "uz": "Klitoral zonani tuzatish"
+          },
+          "price": 8400000
+        },
+        {
+          "id": "service1739195050814111",
+          "name": {
+            "ru": "Пластика задней стенки влагалища с укреплением мышц заднего прохода",
+            "uz": "Orqa qin devori plastik jarrohlik anus mushaklarini mustahkamlash bilan"
+          },
+          "price": 7200000
+        },
+        {
+          "id": "service1739195050814112",
+          "name": {
+            "ru": "Реконструктивные операции при аномалиях развития девственной плевы и влагалищной трубки",
+            "uz": "Qizlik pardasi va qin nayining rivojlanishidagi anomaliyalar bo'yicha rekonstruktiv operatsiyalar"
+          },
+          "price": 7000000
+        },
+        {
+          "id": "service1739195050814114",
+          "name": {
+            "ru": "Удаление дермоидных и параовариальных кист яичников",
+            "uz": "Tuxumdonlarning dermoid va paraovaryan kistalarini olib tashlash"
+          },
+          "price": 5600000
+        },
+        {
+          "id": "service1739195050814115",
+          "name": {
+            "ru": "Удаление эндометриоидных кист яичников",
+            "uz": "Endometrioid tuxumdon kistalarini olib tashlash"
+          },
+          "price": 9400000
+        },
+        {
+          "id": "service1739195050814116",
+          "name": {
+            "ru": "Удаление маточных труб или перевязка маточных труб(дхс)",
+            "uz": "Fallop naychalarini olib tashlash yoki tubal bog'lash (DHL)"
+          },
+          "price": 5800000
+        },
+        {
+          "id": "service1739195050814117",
+          "name": {
+            "ru": "Удаление придатков(аднексэктомия)",
+            "uz": "Qo'shimchalarni olib tashlash (adneksektomiya)"
+          },
+          "price": 8400000
+        },
+        {
+          "id": "service1739195050814118",
+          "name": {
+            "ru": "Миомэктомия с ушивания ложа узлов",
+            "uz": "Miyomektomiya tugun to'shagini tikish"
+          },
+          "price": 9400000
+        },
+        {
+          "id": "service1739195050814119",
+          "name": {
+            "ru": "Субтотальная гистерэктомия с придатками/без придатков",
+            "uz": "Qo'shimchalar bilan/qo'shimchalarsiz subtotal histerektomiya"
+          },
+          "price": 16200000
+        },
+        {
+          "id": "service1739195050814120",
+          "name": {
+            "ru": "Тотальная гистерэктомия с придатками/без придатков",
+            "uz": "Umumiy histerektomiya qo'shimchalari bilan/qo'shimchalarsiz"
+          },
+          "price": 18400000
+        },
+        {
+          "id": "service1739195050814121",
+          "name": {
+            "ru": "Эндометриоз послеоперационного рубца передней брюшной стенки, лапаротомическим доступом",
+            "uz": "Qorin old devorining operatsiyadan keyingi chandig'ining endometriozi, laparotomiya yo'li"
+          },
+          "price": 5600000
+        },
+        {
+          "id": "service1739195050814123",
+          "name": {
+            "ru": "в\\м инъекция",
+            "uz": "mushak ichiga yuborish"
+          },
+          "price": 60000
+        },
+        {
+          "id": "service1739195050814124",
+          "name": {
+            "ru": "в\\в струйно",
+            "uz": "vena ichiga reaktiv inyeksiya"
+          },
+          "price": 70000
+        },
+        {
+          "id": "service1739195050814125",
+          "name": {
+            "ru": "в\\в капельно",
+            "uz": "IV tomchilatib yuborish"
+          },
+          "price": 90000
+        },
+        {
+          "id": "service1739195050814126",
+          "name": {
+            "ru": "Очистительная клизма",
+            "uz": "Tozalash klizmasi"
+          },
+          "price": 170000
+        },
+        {
+          "id": "service1739195050814127",
+          "name": {
+            "ru": "Подкожная Иньекция",
+            "uz": "Teri ostiga inyeksiya"
+          },
+          "price": 60000
+        },
+        {
+          "id": "service1739195050814128",
+          "name": {
+            "ru": "Палата дневного пребывания до 3 часов",
+            "uz": "Kunduzgi bo'lim 3 soatgacha"
+          },
+          "price": 350000
+        },
+        {
+          "id": "service1739195050814129",
+          "name": {
+            "ru": "Палата дневного пребывания",
+            "uz": "Kunduzgi bo'lim"
+          },
+          "price": 800000
+        },
+        {
+          "id": "service1739195050814130",
+          "name": {
+            "ru": "Палата дневного пребывания до 6 часов",
+            "uz": "Kunduzgi bo'lim 6 soatgacha"
+          },
+          "price": 600000
+        },
+        {
+          "id": "service1739195050814131",
+          "name": {
+            "ru": "Вакуумная физиотерапевтическая процедура",
+            "uz": "Vakuumli fizioterapiya muolajasi"
+          },
+          "price": 450000
+        },
+        {
+          "id": "service1739195050814132",
+          "name": {
+            "ru": "Питание пациентов в дневном стационаре",
+            "uz": "Kunduzgi shifoxonadagi bemorlarning ovqati"
+          },
+          "price": 70000
+        },
+        {
+          "id": "service1739195050814134",
+          "name": {
+            "ru": "Узи желчного пузыря и печени (до и после еды) с функциональной нагрузкой",
+            "uz": "Funktsional yuk bilan o't pufagi va jigar UZIsi (ovqatdan oldin va keyin)"
+          },
+          "price": 260000
+        },
+        {
+          "id": "service1739195050814135",
+          "name": {
+            "ru": "Узи печени и желчного пузыря с определением сократительной функции (натощак)",
+            "uz": "Jigar va o't pufagining kontraktil funktsiyasini aniqlash bilan UZI tekshiruvi (och qoringa)"
+          },
+          "price": 200000
+        },
+        {
+          "id": "service1739195050814136",
+          "name": {
+            "ru": "Узи органов малого таза (трансабдоминально) первично",
+            "uz": "Tos a'zolarini UZI tekshiruvi (transabdominal) birlamchi"
+          },
+          "price": 320000
+        },
+        {
+          "id": "service1739195050814137",
+          "name": {
+            "ru": "Узи органов малого таза (трансабдоминально) вторично",
+            "uz": "Tos a'zolarini UZI tekshiruvi (transabdominal) ikkilamchi"
+          },
+          "price": 260000
+        },
+        {
+          "id": "service1739195050814138",
+          "name": {
+            "ru": "Узи органов малого таза (трансвагинально) вторично",
+            "uz": "Tos a'zolarini UZI tekshiruvi (transvaginal) ikkilamchi"
+          },
+          "price": 280000
+        },
+        {
+          "id": "service1739195050814139",
+          "name": {
+            "ru": "Узи органов малого таза (трансвагинально) первично",
+            "uz": "Tos a'zolarini UZI tekshiruvi (transvaginal) birlamchi"
+          },
+          "price": 360000
+        },
+        {
+          "id": "service1739195050814140",
+          "name": {
+            "ru": "Узи шейки матки при беременности цервикометрия (в динамике)",
+            "uz": "Homiladorlik davrida bachadon bo'yni UZI tekshiruvi servikometriya (dinamik)"
+          },
+          "price": 170000
+        },
+        {
+          "id": "service1739195050814141",
+          "name": {
+            "ru": "Узи органов малого таза с допплерометией сосудов малого таза",
+            "uz": "Tos a'zolarining UZI tekshiruvi tos a'zolarini dopplerografiyasi bilan"
+          },
+          "price": 370000
+        },
+        {
+          "id": "service1739195050814142",
+          "name": {
+            "ru": "Узи органов машонки у детей",
+            "uz": "Bolalarda skrotum a'zolarini UZI tekshiruvi"
+          },
+          "price": 250000
+        },
+        {
+          "id": "service1739195050814143",
+          "name": {
+            "ru": "Узи вилочковой железы",
+            "uz": "Timus UZI tekshiruvi"
+          },
+          "price": 200000
+        },
+        {
+          "id": "service1739195050814144",
+          "name": {
+            "ru": "Фолликуллометрия (трансвагинально)",
+            "uz": "Follikulometriya (transvaginal)"
+          },
+          "price": 200000
+        },
+        {
+          "id": "service1739195050814145",
+          "name": {
+            "ru": "Фолликулометрия (трансабдоминально)",
+            "uz": "Follikulometriya (transabdominal)"
+          },
+          "price": 150000
+        },
+        {
+          "id": "service1739195050814146",
+          "name": {
+            "ru": "Узи органов малого таза у девочек с 11 до 18 лет",
+            "uz": "11 yoshdan 18 yoshgacha bo'lgan qizlar uchun tos a'zolari UZI tekshiruvi"
+          },
+          "price": 225000
+        },
+        {
+          "id": "service1739195050814147",
+          "name": {
+            "ru": "Узи мочевыделительной системы (в динамике) вторично в течение 1 мес",
+            "uz": "Siydik chiqarish tizimining UZI tekshiruvi (dinamik) yana 1 oy ichida"
+          },
+          "price": 160000
+        },
+        {
+          "id": "service1739195050814148",
+          "name": {
+            "ru": "Узи комплексное внутренних органов новорожденного (печень, желч.пузырь, поджелуд. жел., селезенка, пилорический отд. желудка, 12п.к - ка , петли кишечника, брюш. полость) до 2 лет",
+            "uz": "Yangi tug'ilgan chaqaloqning ichki a'zolarini (jigar, o't pufagi, oshqozon osti bezi, taloq, oshqozonning pilorik qismi, o'n ikki barmoqli ichak, ichak qovuzloqlari, qorin bo'shlig'i) kompleks UZI tekshiruvi 2 yoshgacha"
+          },
+          "price": 250000
+        },
+        {
+          "id": "service1739195050814149",
+          "name": {
+            "ru": "Узи тазобедренного сустава у детей",
+            "uz": "Bolalarda son bo'g'imi UZI tekshiruvi"
+          },
+          "price": 160000
+        },
+        {
+          "id": "service1739195050814150",
+          "name": {
+            "ru": "Узи определения свободной жидкости в плевральной полости",
+            "uz": "Plevra bo'shlig'idagi erkin suyuqlikni aniqlash uchun UZI tekshiruvi"
+          },
+          "price": 170000
+        },
+        {
+          "id": "service1739195050814151",
+          "name": {
+            "ru": "Узи комплексное органов брюш. полости (печень, желч. пузырь, поджелуд. железа, селезенка, кишечник, свободная жидкость в брюш. Полости) старше 18 лет",
+            "uz": "Qorin bo'shlig'i organlarining murakkab UZI tekshiruvi. bo'shliqlar (jigar, o't pufagi, oshqozon osti bezi, taloq, ichaklar, qorin bo'shlig'idagi erkin suyuqlik. Bo'shliqlar) 18 yoshdan yuqori"
+          },
+          "price": 340000
+        },
+        {
+          "id": "service1739195050814152",
+          "name": {
+            "ru": "Узи комплексное органов мочевыделительной системы (почки, мочеточник, мочев. пузырь) старше 18 лет",
+            "uz": "Siydik chiqarish tizimining kompleks UZI tekshiruvi (buyrak, siydik yo'llari, siydik pufagi) 18 yoshdan katta"
+          },
+          "price": 280000
+        },
+        {
+          "id": "service1739195050814153",
+          "name": {
+            "ru": "Симфизиометрия (Узи симфизита)",
+            "uz": "Simfiziometriya (Simfizit UZI)"
+          },
+          "price": 170000
+        },
+        {
+          "id": "service1739195050814154",
+          "name": {
+            "ru": "Узи молочных желез",
+            "uz": "Sut bezlari UZI tekshiruvi"
+          },
+          "price": 280000
+        },
+        {
+          "id": "service1739195050814155",
+          "name": {
+            "ru": "Узи мочевого пузыря (до и после мочеиспускания)",
+            "uz": "Quviq UZI tekshiruvi (siydik chiqarishdan oldin va keyin)"
+          },
+          "price": 170000
+        },
+        {
+          "id": "service1739195050814156",
+          "name": {
+            "ru": "Узи мягких тканей ( свищи, грыжи, травмы - гематомы, атеромы , лимфоузлы, липомы )",
+            "uz": "Yumshoq to'qimalarning UZI tekshiruvi (oqma, churra, jarohatlar - gematomalar, ateromalar, limfa tugunlari, lipomalar)"
+          },
+          "price": 200000
+        },
+        {
+          "id": "service1739195050814157",
+          "name": {
+            "ru": "Узи печени и желчного пузыря (натощак)",
+            "uz": "Jigar va o't pufagi UZI tekshiruvi (och qoringa)"
+          },
+          "price": 200000
+        },
+        {
+          "id": "service1739195050814158",
+          "name": {
+            "ru": "Узи плода с 25 - 29 недель с допплерометрией",
+            "uz": "Homila UZI 25 dan 29 haftagacha Doppler bilan"
+          },
+          "price": 315000
+        },
+        {
+          "id": "service1739195050814159",
+          "name": {
+            "ru": "Узи плода с 25 - 29 недель с допплерометрией двойня",
+            "uz": "Homila UZI 25 - 29 haftalik doppler, egizaklar"
+          },
+          "price": 370000
+        },
+        {
+          "id": "service1739195050814160",
+          "name": {
+            "ru": "Узи плода с 30 - 34 недель ( третий скрининг ) с допплерометрией двойня",
+            "uz": "30 - 34 haftalik homila UZI tekshiruvi (uchinchi skrining) Doppler, egizaklar"
+          },
+          "price": 425000
+        },
+        {
+          "id": "service1739195050814161",
+          "name": {
+            "ru": "Узи плода с 30 - 34 недель ( третий скрининг ) с допплерометрией",
+            "uz": "30 - 34 haftalik homila UZI tekshiruvi (uchinchi skrining) Doppler bilan"
+          },
+          "price": 370000
+        },
+        {
+          "id": "service1739195050814162",
+          "name": {
+            "ru": "Узи плода с 25 - 29 недель с допплерометрией тройня",
+            "uz": "Homila UZI 25 - 29 haftalik Doppler bilan uchlik"
+          },
+          "price": 425000
+        },
+        {
+          "id": "service1739195050814163",
+          "name": {
+            "ru": "Узи плода с 30 - 34 недель ( третий скрининг ) с допплерометрией тройня",
+            "uz": "30 - 34 haftalik homila UZI tekshiruvi (uchinchi skrining) Doppler UZI uchlik bilan"
+          },
+          "price": 500000
+        },
+        {
+          "id": "service1739195050814164",
+          "name": {
+            "ru": "Узи плода с 12 до 14 недель ( первый скрининг )",
+            "uz": "Homila UZI tekshiruvi 12 dan 14 haftagacha (birinchi skrining)"
+          },
+          "price": 245000
+        },
+        {
+          "id": "service1739195050814165",
+          "name": {
+            "ru": "Узи плода с 12 до 14 недель ( первый скрининг )двойня",
+            "uz": "Homila UZI tekshiruvi 12 dan 14 haftagacha (birinchi skrining) egizaklar"
+          },
+          "price": 300000
+        },
+        {
+          "id": "service1739195050814166",
+          "name": {
+            "ru": "Узи плода с 12 до 14 недель ( первый скрининг )тройня",
+            "uz": "Homila UZI tekshiruvi 12 dan 14 haftagacha (birinchi skrining) uchlik"
+          },
+          "price": 370000
+        },
+        {
+          "id": "service1739195050814167",
+          "name": {
+            "ru": "Узи органов малого таза при сроках беременности до 11 нед",
+            "uz": "11 haftagacha homiladorlik davrida tos a'zolarining UZI tekshiruvi"
+          },
+          "price": 225000
+        },
+        {
+          "id": "service1739195050814168",
+          "name": {
+            "ru": "Узи органов малого таза при сроках беременности до 11 нед.тройня",
+            "uz": "11 haftalik homiladorlik davrida tos a'zolarini UZI tekshiruvi"
+          },
+          "price": 315000
+        },
+        {
+          "id": "service1739195050814169",
+          "name": {
+            "ru": "Узи плода с 16 - 24 нед. ( второй скрининг ) с допплерометрией",
+            "uz": "16 dan 24 haftagacha xomilalik UZI. (ikkinchi skrining) Doppler bilan"
+          },
+          "price": 280000
+        },
+        {
+          "id": "service1739195050814170",
+          "name": {
+            "ru": "Узи плода с 16 - 24 нед. ( второй скрининг ) с допплерометрией тройня",
+            "uz": "16 dan 24 haftagacha xomilalik UZI. (ikkinchi skrining) Doppler UZI uchlik bilan"
+          },
+          "price": 400000
+        },
+        {
+          "id": "service1739195050814171",
+          "name": {
+            "ru": "Узи органов малого таза при сроках беременности до 11 нед.двойня",
+            "uz": "Homiladorlik davrida tos a'zolarini UZI tekshiruvi 11 haftagacha egizaklar"
+          },
+          "price": 260000
+        },
+        {
+          "id": "service1739195050814172",
+          "name": {
+            "ru": "Узи плода с 16 - 24 нед. ( второй скрининг ) с допплерометрией двойня",
+            "uz": "16 dan 24 haftagacha xomilalik UZI. (ikkinchi skrining) doppler UZIli egizaklar bilan"
+          },
+          "price": 335000
+        },
+        {
+          "id": "service1739195050814173",
+          "name": {
+            "ru": "Узи плода с 35 - 40 нед. С допплерометрией",
+            "uz": "35 dan 40 haftagacha xomilalik UZI. Doppler bilan"
+          },
+          "price": 400000
+        },
+        {
+          "id": "service1739195050814174",
+          "name": {
+            "ru": "Узи плода с 35 - 40 нед. С допплерометрией тройня",
+            "uz": "35 dan 40 haftagacha xomilalik UZI. Doppler uchlik bilan"
+          },
+          "price": 500000
+        },
+        {
+          "id": "service1739195050814175",
+          "name": {
+            "ru": "Узи поджелудочной железы (натощак)",
+            "uz": "Oshqozon osti bezining UZI tekshiruvi (och qoringa)"
+          },
+          "price": 170000
+        },
+        {
+          "id": "service1739195050814176",
+          "name": {
+            "ru": "Узи плода с 35 - 40 нед. С допплерометрией двойня",
+            "uz": "35 dan 40 haftagacha xomilalik UZI. Doppler UZI bilan, egizaklar"
+          },
+          "price": 425000
+        },
+        {
+          "id": "service1739195050814177",
+          "name": {
+            "ru": "Узи надпочечников",
+            "uz": "Buyrak usti bezlari UZI tekshiruvi"
+          },
+          "price": 170000
+        },
+        {
+          "id": "service1739195050814178",
+          "name": {
+            "ru": "Узи предстательной железы + мочевой пузырь трансабдоминально",
+            "uz": "Prostata bezining UZI tekshiruvi + siydik pufagi transabdominal"
+          },
+          "price": 225000
+        },
+        {
+          "id": "service1739195050814179",
+          "name": {
+            "ru": "Узи слюнных желез",
+            "uz": "Tuprik bezlari UZI tekshiruvi"
+          },
+          "price": 170000
+        },
+        {
+          "id": "service1739195050814180",
+          "name": {
+            "ru": "Узи органов малого таза у девочек ( новорожденные -  - до 10 лет )",
+            "uz": "Qizlarda tos a'zolari UZI tekshiruvi (yangi tug'ilgan chaqaloqlar - 10 yoshgacha)"
+          },
+          "price": 225000
+        },
+        {
+          "id": "service1739195050814181",
+          "name": {
+            "ru": "Эхокардиографияф",
+            "uz": "Ekokardiyografiya f"
+          },
+          "price": 400000
+        },
+        {
+          "id": "service1739195050814182",
+          "name": {
+            "ru": "Нейросонография",
+            "uz": "Neyrosonografiya"
+          },
+          "price": 200000
+        },
+        {
+          "id": "service1739195050814183",
+          "name": {
+            "ru": "Узи селезенки",
+            "uz": "Taloq UZI tekshiruvi"
+          },
+          "price": 135000
+        },
+        {
+          "id": "service1739195050814184",
+          "name": {
+            "ru": "Узи щитовидной железы + доплерография",
+            "uz": "Qalqonsimon bez UZI + Dopplerografiya"
+          },
+          "price": 280000
+        },
+        {
+          "id": "service1739195050814185",
+          "name": {
+            "ru": "Узи брюшной полости на наличие свободной жидкости (в динамике)",
+            "uz": "Qorin bo'shlig'ini UZI tekshiruvi erkin suyuqlik borligini aniqlash uchun (dinamika)"
+          },
+          "price": 135000
+        },
+        {
+          "id": "service1739195050814186",
+          "name": {
+            "ru": "Узи мягких тканей (в динамике)",
+            "uz": "Yumshoq to'qimalarning UZI tekshiruvi (dinamik)"
+          },
+          "price": 115000
+        },
+        {
+          "id": "service1739195050814187",
+          "name": {
+            "ru": "Узи органов брюшной полости (в динамике) в течение 1 мес",
+            "uz": "Qorin a'zolarini UZI tekshiruvi (dinamik) 1 oy ichida"
+          },
+          "price": 260000
+        },
+        {
+          "id": "service1739195050814188",
+          "name": {
+            "ru": "Узи органов желудочно кишечного тракта старше 18 лет",
+            "uz": "18 yoshdan katta oshqozon - ichak UZI tekshiruvi"
+          },
+          "price": 260000
+        },
+        {
+          "id": "service1739195050814189",
+          "name": {
+            "ru": "Узи органов брюшной полости у детей после 2 лет до 18 лет (печень, желч. пузырь, желудок, поджелуд. железа, селезенка, кишечник, свободная жидкость в брюш. Полости)",
+            "uz": "2 yoshdan 18 yoshgacha bo'lgan bolalarda qorin a'zolarining UZI tekshiruvi (jigar, o't pufagi, oshqozon, oshqozon osti bezi, taloq, ichaklar, qorin bo'shlig'idagi erkin suyuqlik)"
+          },
+          "price": 280000
+        },
+        {
+          "id": "service1739195050814190",
+          "name": {
+            "ru": "Узи органов мочевыделительной системы у детей до 18 лет (почки, мочеточник, мочевой пузырь до и после опорожнения)",
+            "uz": "18 yoshgacha bo'lgan bolalarda siydik chiqarish tizimining UZI tekshiruvi (buyrak, siydik yo'llari, siydik pufagi bo'shatilgunga qadar va keyin)"
+          },
+          "price": 280000
+        },
+        {
+          "id": "service1739195050814192",
+          "name": {
+            "ru": "Допплерография транскраниальная",
+            "uz": "Dopplerografiya transkranial"
+          },
+          "price": 335000
+        },
+        {
+          "id": "service1739195050814193",
+          "name": {
+            "ru": "Допплерометрия брахиоцефальных + транскраниальных сосудов",
+            "uz": "Brakiyosefalik + transkranial tomirlarning dopplerometriyasi"
+          },
+          "price": 560000
+        },
+        {
+          "id": "service1739195050814194",
+          "name": {
+            "ru": "Допплерография брахиоцефальных сосудов",
+            "uz": "Brakiyosefal qon tomirlarining dopplerografiyasi"
+          },
+          "price": 426000
+        },
+        {
+          "id": "service1739195050814195",
+          "name": {
+            "ru": "Допплерография артерий и вен верхних конечностей",
+            "uz": "Yuqori ekstremita arteriya va venalarining dopplerografiyasi"
+          },
+          "price": 500000
+        },
+        {
+          "id": "service1739195050814196",
+          "name": {
+            "ru": "Допплерография вен верхних конечностей",
+            "uz": "Yuqori ekstremita venalarining dopplerografiyasi"
+          },
+          "price": 400000
+        },
+        {
+          "id": "service1739195050814197",
+          "name": {
+            "ru": "Допплерография вен нижних конечностей",
+            "uz": "Pastki ekstremita venalarining dopplerografiyasi"
+          },
+          "price": 400000
+        },
+        {
+          "id": "service1739195050814198",
+          "name": {
+            "ru": "Допплерография артерий нижних конечностей",
+            "uz": "Pastki ekstremita arteriyalarining dopplerografiyasi"
+          },
+          "price": 400000
+        },
+        {
+          "id": "service1739195050814199",
+          "name": {
+            "ru": "Допплерография сосудов органов мошонки",
+            "uz": "Skrotum a'zolarining qon tomirlarini dopplerografiyasi"
+          },
+          "price": 315000
+        },
+        {
+          "id": "service1739195050814200",
+          "name": {
+            "ru": "Допплерография сосудов почек",
+            "uz": "Buyrak tomirlarining dopplerografiyasi"
+          },
+          "price": 340000
+        },
+        {
+          "id": "service1739195050814201",
+          "name": {
+            "ru": "Допплерография сосудов брюшной полости",
+            "uz": "Qorin bo'shlig'i tomirlarining dopplerografiyasi"
+          },
+          "price": 370000
+        },
+        {
+          "id": "service1739195050814202",
+          "name": {
+            "ru": "Допплерография сосудов печени",
+            "uz": "Jigar tomirlarining dopplerografiyasi"
+          },
+          "price": 340000
+        },
+        {
+          "id": "service1739195050814203",
+          "name": {
+            "ru": "Нейросонография с допплерометрией",
+            "uz": "Doppler yordamida neyrosonografiya"
+          },
+          "price": 280000
+        },
+        {
+          "id": "service1739195050814205",
+          "name": {
+            "ru": "Рентген костей носа",
+            "uz": "Burun suyaklari rentgenogrammasi"
+          },
+          "price": 170000
+        },
+        {
+          "id": "service1739195050814206",
+          "name": {
+            "ru": "Рентген коленный сустав 2х проекциях",
+            "uz": "Tizza bo'g'imi rentgenogrammasi 2 proyeksiya"
+          },
+          "price": 170000
+        },
+        {
+          "id": "service1739195050814207",
+          "name": {
+            "ru": "Рентген бедренной кости 2х проекциях",
+            "uz": "Son suyagi rentgenogrammasi 2 proyeksiyasi"
+          },
+          "price": 170000
+        },
+        {
+          "id": "service1739195050814208",
+          "name": {
+            "ru": "Рентген шейного отдела позвоночника 2х проекциях",
+            "uz": "Bo'yin umurtqasining rentgenogrammasi 2 proyeksiya"
+          },
+          "price": 170000
+        },
+        {
+          "id": "service1739195050814209",
+          "name": {
+            "ru": "Рентген голеностопный сустав 2х проекциях",
+            "uz": "To'piq bo'g'imi rentgenogrammasi 2 proyeksiya"
+          },
+          "price": 170000
+        },
+        {
+          "id": "service1739195050814210",
+          "name": {
+            "ru": "Рентгенография черепа в х проекциях 2х проекциях",
+            "uz": "Bosh suyagi rentgenogrammasi x proyeksiyada 2 proyeksiya"
+          },
+          "price": 170000
+        },
+        {
+          "id": "service1739195050814211",
+          "name": {
+            "ru": "Рентген грудного отдела позвоночника 2х проекциях",
+            "uz": "Ko'krak umurtqasining rentgenogrammasi 2 proyeksiya"
+          },
+          "price": 170000
+        },
+        {
+          "id": "service1739195050814212",
+          "name": {
+            "ru": "Рентген поясничного отдела позвоночника 2х проекциях",
+            "uz": "Orqa miya rentgenogrammasi 2 proyeksiya"
+          },
+          "price": 170000
+        },
+        {
+          "id": "service1739195050814213",
+          "name": {
+            "ru": "Рентгенография грудной клетки 2х проекциях",
+            "uz": "Ko'krak qafasi rentgenogrammasi 2x proyeksiyasi"
+          },
+          "price": 200000
+        },
+        {
+          "id": "service1739195050814214",
+          "name": {
+            "ru": "Рентген костей голени 2х проекциях",
+            "uz": "Boldir suyaklari rentgenogrammasi 2 proyeksiyada"
+          },
+          "price": 170000
+        },
+        {
+          "id": "service1739195050814215",
+          "name": {
+            "ru": "Рентген кистей",
+            "uz": "Qo'l rentgenogrammasi"
+          },
+          "price": 170000
+        },
+        {
+          "id": "service1739195050814216",
+          "name": {
+            "ru": "Рентген костей предплечья 2х проекциях",
+            "uz": "Bilak suyaklari rentgenogrammasi 2x proyeksiyasi"
+          },
+          "price": 170000
+        },
+        {
+          "id": "service1739195050814217",
+          "name": {
+            "ru": "Рентген костей стопы 2х проекциях",
+            "uz": "Oyoq suyaklari rentgenogrammasi 2x proyeksiyasi"
+          },
+          "price": 170000
+        },
+        {
+          "id": "service1739195050814218",
+          "name": {
+            "ru": "Рентген костей таза",
+            "uz": "Tos suyaklari rentgenogrammasi"
+          },
+          "price": 170000
+        },
+        {
+          "id": "service1739195050814219",
+          "name": {
+            "ru": "Рентген костей таза (дети)",
+            "uz": "Tos suyaklari rentgenogrammasi (bolalar)"
+          },
+          "price": 170000
+        },
+        {
+          "id": "service1739195050814220",
+          "name": {
+            "ru": "Рентген локтевого сустава 2х проекциях",
+            "uz": "Tirsak bo'g'imi rentgenogrammasi 2 proyeksiya"
+          },
+          "price": 170000
+        },
+        {
+          "id": "service1739195050814221",
+          "name": {
+            "ru": "Рентген лучезапястного сустава 2х проекциях",
+            "uz": "Bilak bo'g'imi rentgenogrammasi 2 proyeksiya"
+          },
+          "price": 170000
+        },
+        {
+          "id": "service1739195050814222",
+          "name": {
+            "ru": "Рентген обзорный снимок брюшной полости",
+            "uz": "Qorin bo'shlig'ining rentgenogrammasi"
+          },
+          "price": 170000
+        },
+        {
+          "id": "service1739195050814223",
+          "name": {
+            "ru": "Рентген плечевого сустава",
+            "uz": "Yelka bo'g'imi rentgenogrammasi"
+          },
+          "price": 170000
+        },
+        {
+          "id": "service1739195050814224",
+          "name": {
+            "ru": "Рентген плечевой кости 2х проекциях",
+            "uz": "Yelka suyagi rentgenogrammasi 2 proyeksiyada"
+          },
+          "price": 170000
+        },
+        {
+          "id": "service1739195050814225",
+          "name": {
+            "ru": "Рентгенография грудной клетки (дети) в 2х проекциях",
+            "uz": "Ko'krak qafasi rentgenogrammasi (bolalar) 2 proyeksiyada"
+          },
+          "price": 170000
+        },
+        {
+          "id": "service1739195050814226",
+          "name": {
+            "ru": "Рентген тазобедренных суставов",
+            "uz": "son bo'g'imlari rentgenogrammasi"
+          },
+          "price": 170000
+        },
+        {
+          "id": "service1739195050814227",
+          "name": {
+            "ru": "Рентген экстреторная урография",
+            "uz": "Rentgen ekskretor urografiya"
+          },
+          "price": 400000
+        },
+        {
+          "id": "service1739195050814228",
+          "name": {
+            "ru": "Рентгенография ключицы",
+            "uz": "Klavikulaning rentgenogrammasi"
+          },
+          "price": 170000
+        },
+        {
+          "id": "service1739195050814229",
+          "name": {
+            "ru": "Рентгенография крестцово - копчикового.отд.поз - ка в 2х проекциях",
+            "uz": "2 proyeksiyada sakrokoksigeal bo'lim rentgenogrammasi"
+          },
+          "price": 170000
+        },
+        {
+          "id": "service1739195050814230",
+          "name": {
+            "ru": "Обзорная рентгенография мочевых путей",
+            "uz": "Siydik chiqarish yo'llarining umumiy rentgenografiyasi"
+          },
+          "price": 170000
+        },
+        {
+          "id": "service1739195050814231",
+          "name": {
+            "ru": "Уретрография",
+            "uz": "Uretrografiya"
+          },
+          "price": 280000
+        },
+        {
+          "id": "service1739195050814232",
+          "name": {
+            "ru": "Дополнительный cd диск",
+            "uz": "Qo'shimcha CD disk"
+          },
+          "price": 40000
+        },
+        {
+          "id": "service1739195050814233",
+          "name": {
+            "ru": "Ирригография",
+            "uz": "Irrigografiya"
+          },
+          "price": 560000
+        },
+        {
+          "id": "service1739195050814234",
+          "name": {
+            "ru": "Рентген исследование желудка с барием",
+            "uz": "Oshqozonni bariy bilan rentgen tekshiruvi"
+          },
+          "price": 280000
+        },
+        {
+          "id": "service1739195050814235",
+          "name": {
+            "ru": "Рентген исследование пищевода с барием",
+            "uz": "Qizilo'ngachni bariy bilan rentgenologik tekshirish"
+          },
+          "price": 225000
+        },
+        {
+          "id": "service1739195050814236",
+          "name": {
+            "ru": "Рентгенография придаточных пазух носа в 2х проекциях",
+            "uz": "Paranazal sinuslarning rentgenogrammasi 2 proyeksiyada"
+          },
+          "price": 170000
+        },
+        {
+          "id": "service1739195050814237",
+          "name": {
+            "ru": "Фистулография",
+            "uz": "Fistulografiya"
+          },
+          "price": 280000
+        },
+        {
+          "id": "service1739195050814238",
+          "name": {
+            "ru": "Гсг - гистеросальпингография",
+            "uz": "HSG - gisterosalpingografiya"
+          },
+          "price": 730000
+        },
+        {
+          "id": "service1739195050814239",
+          "name": {
+            "ru": "Функциональная проба позвоночника (прямая, боковая, сгибание, разгибание)",
+            "uz": "Umurtqa pog‘onasining funksional testi (to‘g‘ri, lateral, egilish, kengaytma) 200 000 so‘m"
+          },
+          "price": 200000
+        },
+        {
+          "id": "service1739195050814240",
+          "name": {
+            "ru": "Рентгеноскопия ЖКТ",
+            "uz": "Oshqozon - ichak trakti rentgenogrammasi"
+          },
+          "price": 340000
+        },
+        {
+          "id": "service1739195050814241",
+          "name": {
+            "ru": "Рентген обеих стоп в прямой проекции",
+            "uz": "To'g'ridan - to'g'ri proyeksiyada ikkala oyoq rentgenogrammasi"
+          },
+          "price": 170000
+        },
+        {
+          "id": "service1739195050814242",
+          "name": {
+            "ru": "Рентген одной кисти в 2 - х проекциях",
+            "uz": "Bir qo'lning rentgenogrammasi 2 proyeksiyada"
+          },
+          "price": 170000
+        },
+        {
+          "id": "service1739195050814243",
+          "name": {
+            "ru": "Рентген одной стопы в 2 - х проекциях",
+            "uz": "Bir oyoqning rentgenogrammasi 2 proyeksiyada"
+          },
+          "price": 170000
+        },
+        {
+          "id": "service1739195050814244",
+          "name": {
+            "ru": "Рентген обеих пяток в боковой проекции",
+            "uz": "Ikki tovonning lateral proyeksiyadagi rentgenogrammasi"
+          },
+          "price": 170000
+        },
+        {
+          "id": "service1739195050814245",
+          "name": {
+            "ru": "Рентген одной пятки в 2 - х проекциях",
+            "uz": "Bir tovon rentgenogrammasi 2 proyeksiyada"
+          },
+          "price": 170000
+        },
+        {
+          "id": "service1739195050814246",
+          "name": {
+            "ru": "Рентгеноскопия одной анатомической области",
+            "uz": "Bir anatomik hududning rentgenogrammasi"
+          },
+          "price": 80000
+        },
+        {
+          "id": "service1739195050814247",
+          "name": {
+            "ru": "Дуктография",
+            "uz": "Duktografiya"
+          },
+          "price": 400000
+        },
+        {
+          "id": "service1739195050814248",
+          "name": {
+            "ru": "Рентген нижней челюсти (прямая, правая, левая боковая проекции)",
+            "uz": "Pastki jag'ning rentgenogrammasi (to'g'ri, o'ng, chap lateral proyeksiyalar)"
+          },
+          "price": 170000
+        },
+        {
+          "id": "service1739195050814249",
+          "name": {
+            "ru": "Рентгеноскопия грудной клетки",
+            "uz": "Ko'krak qafasining rentgenogrammasi"
+          },
+          "price": 80000
+        },
+        {
+          "id": "service1739195050814250",
+          "name": {
+            "ru": "Маммография",
+            "uz": "Mammografiya"
+          },
+          "price": 340000
+        },
+        {
+          "id": "service1739195050814251",
+          "name": {
+            "ru": "Рентгенография черепа в х проекциях 2х проекциях",
+            "uz": "Bosh suyagi rentgenogrammasi x proyeksiyada 2 proyeksiya"
+          },
+          "price": 170000
+        },
+        {
+          "id": "service1739195050814252",
+          "name": {
+            "ru": "Рентген грудного отдела позвоночника 2х проекциях",
+            "uz": "Ko'krak umurtqasining rentgenogrammasi 2 proyeksiya"
+          },
+          "price": 170000
+        },
+        {
+          "id": "service1739195050814253",
+          "name": {
+            "ru": "Рентген поясничного отдела позвоночника 2х проекциях",
+            "uz": "Orqa miya rentgenogrammasi 2 proyeksiya"
+          },
+          "price": 170000
+        },
+        {
+          "id": "service1739195050814254",
+          "name": {
+            "ru": "Рентгенография грудной клетки 2х проекциях",
+            "uz": "Ko'krak qafasi rentgenogrammasi 2x proyeksiyasi"
+          },
+          "price": 200000
+        },
+        {
+          "id": "service1739195050814255",
+          "name": {
+            "ru": "Рентген костей голени 2х проекциях",
+            "uz": "Boldir suyaklari rentgenogrammasi 2 proyeksiyada"
+          },
+          "price": 170000
+        },
+        {
+          "id": "service1739195050814256",
+          "name": {
+            "ru": "Рентген кистей",
+            "uz": "Qo'l rentgenogrammasi"
+          },
+          "price": 170000
+        },
+        {
+          "id": "service1739195050814257",
+          "name": {
+            "ru": "Рентген костей предплечья 2х проекциях",
+            "uz": "Bilak suyaklari rentgenogrammasi 2x proyeksiyasi"
+          },
+          "price": 170000
+        },
+        {
+          "id": "service1739195050814258",
+          "name": {
+            "ru": "Рентген костей стопы 2х проекциях",
+            "uz": "Oyoq suyaklari rentgenogrammasi 2x proyeksiyalar"
+          },
+          "price": 170000
+        },
+        {
+          "id": "service1739195050814259",
+          "name": {
+            "ru": "Рентген костей таза",
+            "uz": "Tos suyaklari rentgenogrammasi"
+          },
+          "price": 170000
+        },
+        {
+          "id": "service1739195050814260",
+          "name": {
+            "ru": "Рентген костей таза (дети)",
+            "uz": "Tos suyaklari rentgenogrammasi (bolalar)"
+          },
+          "price": 170000
+        },
+        {
+          "id": "service1739195050814261",
+          "name": {
+            "ru": "Рентген локтевого сустава 2х проекциях",
+            "uz": "Tirsak bo'g'imi rentgenogrammasi 2 proyeksiya"
+          },
+          "price": 170000
+        },
+        {
+          "id": "service1739195050814262",
+          "name": {
+            "ru": "Рентген лучезапястного сустава 2х проекциях",
+            "uz": "Bilak bo'g'imi rentgenogrammasi 2 proyeksiya"
+          },
+          "price": 170000
+        },
+        {
+          "id": "service1739195050814263",
+          "name": {
+            "ru": "Рентген обзорный снимок брюшной полости",
+            "uz": "Qorin bo'shlig'ining rentgenogrammasi"
+          },
+          "price": 170000
+        },
+        {
+          "id": "service1739195050814264",
+          "name": {
+            "ru": "Рентген плечевого сустава",
+            "uz": "Yelka bo'g'imi rentgenogrammasi"
+          },
+          "price": 170000
+        },
+        {
+          "id": "service1739195050814265",
+          "name": {
+            "ru": "Рентген плечевой кости 2х проекциях",
+            "uz": "Yelka suyagi rentgenogrammasi 2 proyeksiyada"
+          },
+          "price": 170000
+        },
+        {
+          "id": "service1739195050814266",
+          "name": {
+            "ru": "Рентгенография грудной клетки (дети) в 2х проекциях",
+            "uz": "Ko'krak qafasi rentgenogrammasi (bolalar) 2 proyeksiyada"
+          },
+          "price": 170000
+        },
+        {
+          "id": "service1739195050814267",
+          "name": {
+            "ru": "Рентген тазобедренных суставов",
+            "uz": "son bo'g'imlari rentgenogrammasi"
+          },
+          "price": 170000
+        },
+        {
+          "id": "service1739195050814268",
+          "name": {
+            "ru": "Рентген экстреторная урография",
+            "uz": "Rentgen ekskretor urografiya"
+          },
+          "price": 400000
+        },
+        {
+          "id": "service1739195050814269",
+          "name": {
+            "ru": "Рентгенография ключицы",
+            "uz": "Klavikulaning rentgenogrammasi"
+          },
+          "price": 170000
+        },
+        {
+          "id": "service1739195050814270",
+          "name": {
+            "ru": "Рентгенография крестцово - копчикового.отд.поз - ка в 2х проекциях",
+            "uz": "2 proyeksiyada sakrokoksigeal bo'lim rentgenogrammasi"
+          },
+          "price": 170000
+        },
+        {
+          "id": "service1739195050814271",
+          "name": {
+            "ru": "Обзорная рентгенография мочевых путей",
+            "uz": "Siydik chiqarish yo'llarining umumiy rentgenografiyasi"
+          },
+          "price": 170000
+        },
+        {
+          "id": "service1739195050814272",
+          "name": {
+            "ru": "Уретрография",
+            "uz": "Uretrografiya"
+          },
+          "price": 280000
+        },
+        {
+          "id": "service1739195050814273",
+          "name": {
+            "ru": "Дополнительный cd диск",
+            "uz": "Qo'shimcha CD disk"
+          },
+          "price": 40000
+        },
+        {
+          "id": "service1739195050814274",
+          "name": {
+            "ru": "Ирригография",
+            "uz": "Irrigografiya"
+          },
+          "price": 560000
+        },
+        {
+          "id": "service1739195050814275",
+          "name": {
+            "ru": "Рентген исследование желудка с барием",
+            "uz": "Oshqozonni bariy bilan rentgen tekshiruvi"
+          },
+          "price": 280000
+        },
+        {
+          "id": "service1739195050814276",
+          "name": {
+            "ru": "Рентген исследование пищевода с барием",
+            "uz": "Qizilo'ngachni bariy bilan rentgenologik tekshirish"
+          },
+          "price": 225000
+        },
+        {
+          "id": "service1739195050814277",
+          "name": {
+            "ru": "Рентгенография придаточных пазух носа в 2х проекциях",
+            "uz": "Paranazal sinuslarning rentgenogrammasi 2 proyeksiyada"
+          },
+          "price": 170000
+        },
+        {
+          "id": "service1739195050814278",
+          "name": {
+            "ru": "Фистулография",
+            "uz": "Fistulografiya"
+          },
+          "price": 280000
+        },
+        {
+          "id": "service1739195050814279",
+          "name": {
+            "ru": "Гсг - гистеросальпингография",
+            "uz": "HSG - gisterosalpingografiya"
+          },
+          "price": 730000
+        },
+        {
+          "id": "service1739195050814280",
+          "name": {
+            "ru": "Функциональная проба позвоночника (прямая, боковая, сгибание, разгибание)",
+            "uz": "Umurtqa pog‘onasining funksional tekshiruvi (to‘g‘ri, lateral, fleksiyon, kengaytma) 200 000 so‘m"
+          },
+          "price": 200000
+        },
+        {
+          "id": "service1739195050814281",
+          "name": {
+            "ru": "Рентгеноскопия ЖКТ",
+            "uz": "Oshqozon - ichak trakti rentgenogrammasi"
+          },
+          "price": 340000
+        },
+        {
+          "id": "service1739195050814282",
+          "name": {
+            "ru": "Рентген обеих стоп в прямой проекции",
+            "uz": "To'g'ridan - to'g'ri proyeksiyada ikkala oyoq rentgenogrammasi"
+          },
+          "price": 170000
+        },
+        {
+          "id": "service1739195050814283",
+          "name": {
+            "ru": "Рентген одной кисти в 2 - х проекциях",
+            "uz": "Bir qo'lning rentgenogrammasi 2 proyeksiyada"
+          },
+          "price": 170000
+        },
+        {
+          "id": "service1739195050814284",
+          "name": {
+            "ru": "Рентген одной стопы в 2 - х проекциях",
+            "uz": "Bir oyoqning rentgenogrammasi 2 proyeksiyada"
+          },
+          "price": 170000
+        },
+        {
+          "id": "service1739195050814285",
+          "name": {
+            "ru": "Рентген обеих пяток в боковой проекции",
+            "uz": "Ikki tovonning lateral proyeksiyadagi rentgenogrammasi"
+          },
+          "price": 170000
+        },
+        {
+          "id": "service1739195050814286",
+          "name": {
+            "ru": "Рентген одной пятки в 2 - х проекциях",
+            "uz": "Bir tovon rentgenogrammasi 2 proyeksiyada"
+          },
+          "price": 170000
+        },
+        {
+          "id": "service1739195050814287",
+          "name": {
+            "ru": "Рентгеноскопия одной анатомической области",
+            "uz": "Bir anatomik hududning rentgenogrammasi"
+          },
+          "price": 80000
+        },
+        {
+          "id": "service1739195050814288",
+          "name": {
+            "ru": "Дуктография",
+            "uz": "Duktografiya"
+          },
+          "price": 400000
+        },
+        {
+          "id": "service1739195050814289",
+          "name": {
+            "ru": "Рентген нижней челюсти (прямая, правая, левая боковая проекции)",
+            "uz": "Pastki jag rentgenogrammasi (to'g'ri, o'ng, chap lateral proyeksiyalar)"
+          },
+          "price": 170000
+        },
+        {
+          "id": "service1739195050814290",
+          "name": {
+            "ru": "Рентгеноскопия грудной клетки",
+            "uz": "Ko'krak qafasining rentgenogrammasi"
+          },
+          "price": 80000
+        },
+        {
+          "id": "service1739195050814291",
+          "name": {
+            "ru": "Маммография",
+            "uz": "Mammografiya"
+          },
+          "price": 340000
+        },
+        {
+          "id": "service1739195050814293",
+          "name": {
+            "ru": "Лапароскопические Дрилинг",
+            "uz": "Laparoskopik burg'ulash"
+          },
+          "price": 2800000
+        },
+        {
+          "id": "service1739195050814294",
+          "name": {
+            "ru": "Удаление дермоидных и параовариальных кист яичников",
+            "uz": "Tuxumdonlarning dermoid va paraovarian kistalarini olib tashlash"
+          },
+          "price": 8400000
+        },
+        {
+          "id": "service1739195050814295",
+          "name": {
+            "ru": "Удаление эндометриоидных кист яичников",
+            "uz": "Endometrioid tuxumdon kistalarini olib tashlash"
+          },
+          "price": 11700000
+        },
+        {
+          "id": "service1739195050814296",
+          "name": {
+            "ru": "Диагностическая лапароскопия",
+            "uz": "Diagnostik laparoskopiya"
+          },
+          "price": 5700000
+        },
+        {
+          "id": "service1739195050814297",
+          "name": {
+            "ru": "Хирургическое лечение бесплодия",
+            "uz": "Bepushtlikni jarrohlik yo'li bilan davolash"
+          },
+          "price": 8400000
+        },
+        {
+          "id": "service1739195050814298",
+          "name": {
+            "ru": "Удаление придатков(Аднексэктомия)",
+            "uz": "Qo'shimchalarni olib tashlash (Adneksektomiya)"
+          },
+          "price": 9400000
+        },
+        {
+          "id": "service1739195050814299",
+          "name": {
+            "ru": "Удаление маточных труб",
+            "uz": "Fallop naychalarini olib tashlash"
+          },
+          "price": 8400000
+        },
+        {
+          "id": "service1739195050814300",
+          "name": {
+            "ru": "Лапароскопия при внематочной беременности",
+            "uz": "Ektopik homiladorlik uchun laparoskopiya"
+          },
+          "price": 9000000
+        },
+        {
+          "id": "service1739195050814301",
+          "name": {
+            "ru": "Миомэктомия без ушивания ложа узлов",
+            "uz": "Tugun to'shagini tikmasdan miyomektomiya"
+          },
+          "price": 14000000
+        },
+        {
+          "id": "service1739195050814302",
+          "name": {
+            "ru": "Миомэктомия с ушивания ложа узлов",
+            "uz": "Miyomektomiya tugun to'shagini tikish"
+          },
+          "price": 16200000
+        },
+        {
+          "id": "service1739195050814303",
+          "name": {
+            "ru": "Удаление ретроцервикального эндометриоза",
+            "uz": "Retroservikal endometriozni olib tashlash"
+          },
+          "price": 16200000
+        },
+        {
+          "id": "service1739195050814304",
+          "name": {
+            "ru": "Удаление ретроцервикального эндометриоза с шейвингом",
+            "uz": "Retroservikal endometriozni soqol bilan olib tashlash"
+          },
+          "price": 18400000
+        },
+        {
+          "id": "service1739195050814305",
+          "name": {
+            "ru": "Субтотальная гистерэктомия с придатками/без придатков",
+            "uz": "Qo'shimchali/qo'shimchasiz subtotal histerektomiya"
+          },
+          "price": 18400000
+        },
+        {
+          "id": "service1739195050814306",
+          "name": {
+            "ru": "Тотальная гистерэктомия с придатками/без придатков",
+            "uz": "Umumiy histerektomiya qo'shimchalari bilan/qo'shimchalarsiz"
+          },
+          "price": 20700000
+        },
+        {
+          "id": "service1739195050814307",
+          "name": {
+            "ru": "Кольпоколлипексия к боковым стенкам таза проленовым имплантом",
+            "uz": "Tos suyagining yon devorlariga prolen implant bilan kolpokollipeksiya 19600 000 so‘m"
+          },
+          "price": 19600000
+        },
+        {
+          "id": "service1739195050814308",
+          "name": {
+            "ru": "Сакрокольпопексия проленовым имплантом(ПРОМОНТОФИКСАЦИЯ)",
+            "uz": "Prolen implant bilan sakrokolpopeksiya (PROMONTOFIXATION)"
+          },
+          "price": 26800000
+        },
+        {
+          "id": "service1739195050814309",
+          "name": {
+            "ru": "Вентросуспензия протезом",
+            "uz": "Ventrosuspenziya protez bilan"
+          },
+          "price": 21200000
+        },
+        {
+          "id": "service1739195050814310",
+          "name": {
+            "ru": "Метропластика. Несостоятельность рубца на матке. Истомцеле. Лапароскопическим доступом",
+            "uz": "Metroplastika. Bachadon chandig'ining etishmovchiligi. Istomatsele. Laparoskopik kirish"
+          },
+          "price": 13400000
+        },
+        {
+          "id": "service1739195050814311",
+          "name": {
+            "ru": "Кольпоскопия",
+            "uz": "Kolposkopiya"
+          },
+          "price": 315000
+        },
+        {
+          "id": "service1739195050814313",
+          "name": {
+            "ru": "Экг в покое с расшифровкой",
+            "uz": "Tinch holatdagi EKG ko‘chirma bilan 170 000 so‘m"
+          },
+          "price": 170000
+        }
+      ],
+      "id": "clinic1739193829150"
+    },
+    {
       "name": "MDS Servis",
       "district": "Yashnobod tuman / яшнабадский район",
       "address": "Botkin ko`chasi, 110/3 Mo'ljal: \\\"Botkino\\\" qabristoni",
